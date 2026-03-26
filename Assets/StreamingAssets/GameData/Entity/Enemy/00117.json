@@ -1,0 +1,55 @@
+{
+  "Name": "五彩蜘蛛",
+  "Health": 500,
+  "Exp": 45,
+  "Cash": 0,
+  "Level": 14,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 67,
+  "AttackEquivItemRate": 3,
+  "StealItemId": 99,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 6,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": -60,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 6,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 3,
+      "Thunder": 3,
+      "Water": 3,
+      "Fire": 2,
+      "Earth": 3
+    }
+  },
+  "Effect": {
+    "EffectId": 115,
+    "IdleFrames": 2,
+    "MagicFrames": 9,
+    "AttackFrames": 5,
+    "IdleAnimSpeed": 4,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 183,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

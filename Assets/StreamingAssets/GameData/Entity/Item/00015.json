@@ -1,0 +1,22 @@
+{
+  "Name": "糯米",
+  "Description": [
+    "糯稻的米，富于黏性，可解尸毒。"
+  ],
+  "BitmapId": 15,
+  "Price": 60,
+  "Script": {
+    "Use": "Item_00015_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

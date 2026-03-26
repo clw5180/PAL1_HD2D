@@ -1,0 +1,8 @@
+{
+  "Name": "苏州_内_初至",
+  "MapId": 18,
+  "Script": {
+    "Enter": "Scene_00022_Enter",
+    "Teleport": ""
+  }
+}

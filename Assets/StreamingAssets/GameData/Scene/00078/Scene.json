@@ -1,0 +1,8 @@
+{
+  "Name": "鬼阴山_鬼阴坛_得救",
+  "MapId": 24,
+  "Script": {
+    "Enter": "Scene_00078_Enter",
+    "Teleport": ""
+  }
+}

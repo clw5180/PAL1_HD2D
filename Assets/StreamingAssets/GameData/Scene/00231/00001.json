@@ -1,0 +1,24 @@
+{
+  "Name": "前面白苗女兵",
+  "VanishTime": 0,
+  "X": 1648,
+  "Y": 296,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 567,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "Event_00229_00016_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

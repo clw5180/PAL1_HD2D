@@ -1,0 +1,23 @@
+{
+  "Name": "无影神针",
+  "Description": [
+    "细如牛毛，伤人于无形。",
+    "敌人HP-400"
+  ],
+  "BitmapId": 80,
+  "Price": 2000,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": "Item_00101_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

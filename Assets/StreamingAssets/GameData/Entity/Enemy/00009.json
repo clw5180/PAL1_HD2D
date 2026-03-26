@@ -1,0 +1,55 @@
+{
+  "Name": "血口虫",
+  "Health": 310,
+  "Exp": 14,
+  "Cash": 0,
+  "Level": 12,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 57,
+  "AttackEquivItemRate": 4,
+  "StealItemId": 87,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 16,
+    "MagicStrength": 0,
+    "Defense": 10,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 0,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 3
+    }
+  },
+  "Effect": {
+    "EffectId": 9,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 6,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 357,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 216,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

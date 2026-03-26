@@ -1,0 +1,31 @@
+{
+  "Name": "火龙",
+  "Description": [],
+  "CostMP": 5,
+  "BaseDamage": 45,
+  "SoundId": 101,
+  "Type": 1,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 0,
+    "XOffset": 0,
+    "YOffset": 4,
+    "LayerOffset": 1,
+    "FrameDelay": 2,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": false,
+    "UsableToEnemy": false,
+    "NeedSelectTarget": true
+  }
+}

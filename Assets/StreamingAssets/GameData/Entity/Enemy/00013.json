@@ -1,0 +1,55 @@
+{
+  "Name": "小土鬼",
+  "Health": 650,
+  "Exp": 28,
+  "Cash": 0,
+  "Level": 10,
+  "MagicId": 30,
+  "MagicRate": 7,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 27,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 14,
+    "Defense": 4,
+    "Dexterity": -6,
+    "FleeRate": 2
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 2,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 3,
+      "Fire": 9,
+      "Earth": 3
+    }
+  },
+  "Effect": {
+    "EffectId": 13,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 6,
+    "ActWaitFrames": 3,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 361,
+    "ActionSound": 0,
+    "MagicSound": 362,
+    "DeathSound": 186,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": "Enemy_00013_Action"
+  }
+}

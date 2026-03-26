@@ -1,0 +1,8 @@
+{
+  "Name": "蛤蟆谷_后段",
+  "MapId": 98,
+  "Script": {
+    "Enter": "Scene_00102_Enter",
+    "Teleport": ""
+  }
+}

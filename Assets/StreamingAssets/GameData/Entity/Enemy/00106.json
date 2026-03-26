@@ -1,0 +1,55 @@
+{
+  "Name": "鸟人",
+  "Health": 590,
+  "Exp": 121,
+  "Cash": 0,
+  "Level": 29,
+  "MagicId": 22,
+  "MagicRate": 6,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 91,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 18,
+    "MagicStrength": 50,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 3,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 3,
+      "Water": 3,
+      "Fire": 3,
+      "Earth": 3
+    }
+  },
+  "Effect": {
+    "EffectId": 104,
+    "IdleFrames": 4,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 3,
+    "ActWaitFrames": 2,
+    "YPosOffset": 24
+  },
+  "Sound": {
+    "AttackSound": 71,
+    "ActionSound": 4,
+    "MagicSound": 71,
+    "DeathSound": 191,
+    "CallSound": 93
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

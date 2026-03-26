@@ -1,0 +1,55 @@
+{
+  "Name": "大手",
+  "Health": 500,
+  "Exp": 78,
+  "Cash": 0,
+  "Level": 29,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 27,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 6,
+    "FleeRate": 2
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 2,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 24,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 6,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 378,
+    "MagicSound": 0,
+    "DeathSound": 30,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": "Enemy_00024_Action"
+  }
+}

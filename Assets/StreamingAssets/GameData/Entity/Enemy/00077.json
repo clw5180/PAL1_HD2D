@@ -1,0 +1,55 @@
+{
+  "Name": "木灵道士",
+  "Health": 6600,
+  "Exp": 6400,
+  "Cash": 0,
+  "Level": 35,
+  "MagicId": 74,
+  "MagicRate": 10,
+  "AttackEquivItemId": 25,
+  "AttackEquivItemRate": 3,
+  "StealItemId": 2,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 4,
+    "Poison": 4,
+    "Sorcery": 5,
+    "Elemental": {
+      "Wind": 10,
+      "Thunder": 5,
+      "Water": 10,
+      "Fire": 0,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 77,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 3,
+    "YPosOffset": 16
+  },
+  "Sound": {
+    "AttackSound": 265,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 190,
+    "CallSound": 18
+  },
+  "Script": {
+    "TurnStart": "Enemy_00077_TurnStart",
+    "BattleWon": "",
+    "Action": "Enemy_00077_Action"
+  }
+}

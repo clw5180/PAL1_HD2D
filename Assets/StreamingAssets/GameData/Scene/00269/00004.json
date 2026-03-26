@@ -1,0 +1,24 @@
+{
+  "Name": "小灵儿",
+  "VanishTime": 0,
+  "X": 832,
+  "Y": 352,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 553,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00269_00004_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

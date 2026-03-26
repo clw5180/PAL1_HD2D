@@ -1,0 +1,22 @@
+{
+  "Name": "玉佩",
+  "Description": [
+    "婢女委托的玉佩。"
+  ],
+  "BitmapId": 241,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00228_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

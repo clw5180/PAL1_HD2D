@@ -1,0 +1,8 @@
+{
+  "Name": "忆往昔_心事暗怀二人心",
+  "MapId": 15,
+  "Script": {
+    "Enter": "Scene_00195_Enter",
+    "Teleport": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "小毒蝎",
+  "Health": 280,
+  "Exp": 28,
+  "Cash": 0,
+  "Level": 11,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 70,
+  "AttackEquivItemRate": 6,
+  "StealItemId": 58,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 5,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 3,
+      "Thunder": 3,
+      "Water": 3,
+      "Fire": 6,
+      "Earth": 3
+    }
+  },
+  "Effect": {
+    "EffectId": 117,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 184,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

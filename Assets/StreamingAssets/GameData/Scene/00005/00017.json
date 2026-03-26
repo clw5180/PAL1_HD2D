@@ -1,0 +1,24 @@
+{
+  "Name": "小鸡",
+  "VanishTime": 0,
+  "X": 1056,
+  "Y": 960,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 47,
+    "SpriteFrames": 2,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "Event_00005_00017_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

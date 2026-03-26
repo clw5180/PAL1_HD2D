@@ -1,0 +1,23 @@
+{
+  "Name": "还神丹",
+  "Description": [
+    "宁神醒脑的药丸。",
+    "MP+50"
+  ],
+  "BitmapId": 195,
+  "Price": 200,
+  "Script": {
+    "Use": "Item_00045_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

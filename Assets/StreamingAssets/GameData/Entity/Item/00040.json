@@ -1,0 +1,23 @@
+{
+  "Name": "行军丹",
+  "Description": [
+    "活血顺气的药丸。",
+    "HP+100"
+  ],
+  "BitmapId": 137,
+  "Price": 120,
+  "Script": {
+    "Use": "Item_00040_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

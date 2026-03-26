@@ -1,0 +1,55 @@
+{
+  "Name": "小蜘蛛",
+  "Health": 625,
+  "Exp": 40,
+  "Cash": 0,
+  "Level": 24,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 60,
+  "AttackEquivItemRate": 1,
+  "StealItemId": 60,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 8,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 4,
+      "Water": 5,
+      "Fire": 4,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 15,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 365,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 183,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

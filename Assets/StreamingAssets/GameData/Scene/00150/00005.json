@@ -1,0 +1,24 @@
+{
+  "Name": "魔众",
+  "VanishTime": 0,
+  "X": 752,
+  "Y": 1096,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 492,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "Event_00150_00005_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "天鬼皇",
+  "Health": 5000,
+  "Exp": 5050,
+  "Cash": 0,
+  "Level": 19,
+  "MagicId": 34,
+  "MagicRate": 5,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 38,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 4,
+    "Poison": 5,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 6,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 131,
+    "IdleFrames": 1,
+    "MagicFrames": 2,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 22
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 266,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "Enemy_00132_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

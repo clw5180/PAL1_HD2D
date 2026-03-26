@@ -1,0 +1,8 @@
+{
+  "Name": "大理_汉人聚居地_商业区_空",
+  "MapId": 197,
+  "Script": {
+    "Enter": "Scene_00271_Enter",
+    "Teleport": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "盐巴",
+  "Description": [
+    "取海水煎熬或曝晒而成，",
+    "用来调味，有时可解毒。"
+  ],
+  "BitmapId": 34,
+  "Price": 10,
+  "Script": {
+    "Use": "Item_00017_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

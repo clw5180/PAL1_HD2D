@@ -1,0 +1,55 @@
+{
+  "Name": "林月如二",
+  "Health": 450,
+  "Exp": 200,
+  "Cash": 0,
+  "Level": 5,
+  "MagicId": 57,
+  "MagicRate": 2,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 2,
+    "MagicStrength": -9,
+    "Defense": -5,
+    "Dexterity": 20,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 1,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 85,
+    "IdleFrames": 4,
+    "MagicFrames": 2,
+    "AttackFrames": 4,
+    "IdleAnimSpeed": 2,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 39,
+    "MagicSound": 11,
+    "DeathSound": 25,
+    "CallSound": 2
+  },
+  "Script": {
+    "TurnStart": "Enemy_00086_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

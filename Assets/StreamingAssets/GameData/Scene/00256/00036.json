@@ -1,0 +1,24 @@
+{
+  "Name": "南绍被捕汉人3",
+  "VanishTime": 0,
+  "X": 1280,
+  "Y": 1376,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 560,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 1
+  },
+  "Script": {
+    "Trigger": "Event_00256_00026_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

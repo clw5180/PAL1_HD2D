@@ -1,0 +1,23 @@
+{
+  "Name": "头巾",
+  "Description": [
+    "以剩余布料缝制的头巾。",
+    "防御+1"
+  ],
+  "BitmapId": 176,
+  "Price": 40,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00136_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

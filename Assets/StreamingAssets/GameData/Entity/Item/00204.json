@@ -1,0 +1,24 @@
+{
+  "Name": "雷灵珠",
+  "Description": [
+    "女娲降伏雷神后，禁制雷神于内",
+    "的宝珠。  合体法术：狂雷",
+    "避雷率+50%"
+  ],
+  "BitmapId": 5,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00204_Use",
+    "Equip": "Item_00204_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": "1235"
+  }
+}

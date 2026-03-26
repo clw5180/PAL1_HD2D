@@ -1,0 +1,22 @@
+{
+  "Name": "金凤凰蛋壳",
+  "Description": [
+    "药材"
+  ],
+  "BitmapId": 112,
+  "Price": 0,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

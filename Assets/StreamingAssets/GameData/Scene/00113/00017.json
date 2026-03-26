@@ -1,0 +1,24 @@
+{
+  "Name": "半身无赖2",
+  "VanishTime": 0,
+  "X": 960,
+  "Y": 1456,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 177,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00113_00017_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

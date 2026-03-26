@@ -1,0 +1,55 @@
+{
+  "Name": "小雷公",
+  "Health": 450,
+  "Exp": 50,
+  "Cash": 0,
+  "Level": 20,
+  "MagicId": 22,
+  "MagicRate": 8,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 8,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": -6,
+    "MagicStrength": 26,
+    "Defense": 0,
+    "Dexterity": 13,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 2,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 10,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 21,
+    "IdleFrames": 4,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 4,
+    "ActWaitFrames": 2,
+    "YPosOffset": 5
+  },
+  "Sound": {
+    "AttackSound": 375,
+    "ActionSound": 0,
+    "MagicSound": 374,
+    "DeathSound": 182,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

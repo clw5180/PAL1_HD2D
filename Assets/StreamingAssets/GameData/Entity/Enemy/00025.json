@@ -1,0 +1,55 @@
+{
+  "Name": "怪老子",
+  "Health": 440,
+  "Exp": 60,
+  "Cash": 0,
+  "Level": 18,
+  "MagicId": 12,
+  "MagicRate": 10,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 66,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": -7,
+    "MagicStrength": 14,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 2,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 6,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 25,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 4,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 3,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": 379,
+    "DeathSound": 186,
+    "CallSound": 18
+  },
+  "Script": {
+    "TurnStart": "Enemy_00023_TurnStart",
+    "BattleWon": "",
+    "Action": "Enemy_00025_Action"
+  }
+}

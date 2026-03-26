@@ -1,0 +1,55 @@
+{
+  "Name": "僵尸",
+  "Health": 310,
+  "Exp": 9,
+  "Cash": 0,
+  "Level": 7,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 56,
+  "AttackEquivItemRate": 4,
+  "StealItemId": 56,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 12,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": -16,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 10,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 7,
+      "Water": 6,
+      "Fire": 2,
+      "Earth": 7
+    }
+  },
+  "Effect": {
+    "EffectId": 22,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 376,
+    "ActionSound": 0,
+    "MagicSound": 376,
+    "DeathSound": 190,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

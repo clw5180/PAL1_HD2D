@@ -1,0 +1,55 @@
+{
+  "Name": "蛇女灵儿",
+  "Health": 32767,
+  "Exp": 0,
+  "Cash": 0,
+  "Level": 0,
+  "MagicId": 0,
+  "MagicRate": 10,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 99,
+    "Dexterity": 99,
+    "FleeRate": 99
+  },
+  "Resistance": {
+    "Physical": 99,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 10,
+      "Thunder": 10,
+      "Water": 10,
+      "Fire": 10,
+      "Earth": 10
+    }
+  },
+  "Effect": {
+    "EffectId": 103,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 0,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "Enemy_00105_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

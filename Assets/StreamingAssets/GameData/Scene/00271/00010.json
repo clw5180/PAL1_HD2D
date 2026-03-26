@@ -1,0 +1,24 @@
+{
+  "Name": "小丁香兰",
+  "VanishTime": 0,
+  "X": 1040,
+  "Y": 1624,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 536,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00271_00010_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

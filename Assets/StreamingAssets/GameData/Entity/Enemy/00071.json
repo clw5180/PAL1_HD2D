@@ -1,0 +1,55 @@
+{
+  "Name": "蝶精彩依",
+  "Health": 2090,
+  "Exp": 5000,
+  "Cash": 0,
+  "Level": 16,
+  "MagicId": 56,
+  "MagicRate": 8,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 49,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 10,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 3,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 71,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 4,
+    "ActWaitFrames": 1,
+    "YPosOffset": 31
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": -457,
+    "DeathSound": 26,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "Enemy_00071_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

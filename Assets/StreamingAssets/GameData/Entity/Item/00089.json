@@ -1,0 +1,23 @@
+{
+  "Name": "赤血蚕",
+  "Description": [
+    "吸血维生的毒蛊，使服食者",
+    "体力完全恢复。"
+  ],
+  "BitmapId": 126,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00089_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "隐龙窟_近迹",
+  "MapId": 39,
+  "Script": {
+    "Enter": "Scene_00043_Enter",
+    "Teleport": ""
+  }
+}

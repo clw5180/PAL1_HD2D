@@ -1,0 +1,55 @@
+{
+  "Name": "土蛟龙",
+  "Health": 1250,
+  "Exp": 525,
+  "Cash": 0,
+  "Level": 21,
+  "MagicId": 38,
+  "MagicRate": 5,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 54,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 4,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 4,
+      "Earth": 10
+    }
+  },
+  "Effect": {
+    "EffectId": 134,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 22
+  },
+  "Sound": {
+    "AttackSound": 179,
+    "ActionSound": 59,
+    "MagicSound": 179,
+    "DeathSound": 192,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

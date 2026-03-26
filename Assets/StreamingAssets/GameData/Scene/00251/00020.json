@@ -1,0 +1,24 @@
+{
+  "Name": "白河鲤",
+  "VanishTime": 0,
+  "X": 1856,
+  "Y": 480,
+  "Layer": 10,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 256,
+    "SpriteFrames": 4,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00251_00020_Trigger",
+    "Auto": "Event_00007_00003_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

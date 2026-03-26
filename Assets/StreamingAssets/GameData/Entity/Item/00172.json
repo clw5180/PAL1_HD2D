@@ -1,0 +1,24 @@
+{
+  "Name": "凤纹披风",
+  "Description": [
+    "相传为织女缝制的披风，",
+    "绣凤织锦，光彩夺目。",
+    "防御+52"
+  ],
+  "BitmapId": 87,
+  "Price": 15000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00172_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "235"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "土灵珠",
+  "Description": [
+    "女娲降伏山神后，禁制山神于内",
+    "的宝珠。  合体法术：泰山压顶",
+    "避土率+50%。可用于脱离洞窟。"
+  ],
+  "BitmapId": 6,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00207_Use",
+    "Equip": "Item_00207_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": "1235"
+  }
+}

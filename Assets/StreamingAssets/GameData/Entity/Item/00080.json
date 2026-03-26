@@ -1,0 +1,23 @@
+{
+  "Name": "幻蛊",
+  "Description": [
+    "分泌的毒液会影响人的脑部，",
+    "使人敌我不分，疯魔五回合。"
+  ],
+  "BitmapId": 127,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00080_Use",
+    "Equip": "",
+    "Throw": "Item_00080_Throw"
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

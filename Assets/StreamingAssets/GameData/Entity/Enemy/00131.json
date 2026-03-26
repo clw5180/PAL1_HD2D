@@ -1,0 +1,55 @@
+{
+  "Name": "巫王侍卫",
+  "Health": 4450,
+  "Exp": 1210,
+  "Cash": 0,
+  "Level": 50,
+  "MagicId": 77,
+  "MagicRate": 5,
+  "AttackEquivItemId": 25,
+  "AttackEquivItemRate": 3,
+  "StealItemId": 86,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 20,
+    "Dexterity": 33,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 5,
+    "Sorcery": 2,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 6,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 130,
+    "IdleFrames": 1,
+    "MagicFrames": 6,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 1,
+    "YPosOffset": 20
+  },
+  "Sound": {
+    "AttackSound": 239,
+    "ActionSound": 0,
+    "MagicSound": 265,
+    "DeathSound": 266,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

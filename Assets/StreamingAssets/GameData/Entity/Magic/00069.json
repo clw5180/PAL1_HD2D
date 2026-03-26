@@ -1,0 +1,31 @@
+{
+  "Name": "气吞天下",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 0,
+  "SoundId": 176,
+  "Type": 0,
+  "ActionType": 3,
+  "Effect": {
+    "EffectId": 61,
+    "XOffset": 0,
+    "YOffset": 16,
+    "LayerOffset": -199,
+    "FrameDelay": 2,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

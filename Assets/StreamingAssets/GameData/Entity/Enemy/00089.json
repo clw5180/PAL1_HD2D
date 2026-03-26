@@ -1,0 +1,55 @@
+{
+  "Name": "半人蛇",
+  "Health": 1800,
+  "Exp": 250,
+  "Cash": 0,
+  "Level": 5,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 36,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 25,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 10,
+    "Sorcery": 4,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 6,
+      "Water": 10,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 88,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 1,
+    "YPosOffset": 10
+  },
+  "Sound": {
+    "AttackSound": 484,
+    "ActionSound": 0,
+    "MagicSound": -485,
+    "DeathSound": 190,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": "Enemy_00089_Action"
+  }
+}

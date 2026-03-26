@@ -1,0 +1,31 @@
+{
+  "Name": "暗器",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 33,
+  "SoundId": 158,
+  "Type": 0,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 49,
+    "XOffset": -12,
+    "YOffset": 0,
+    "LayerOffset": 1,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

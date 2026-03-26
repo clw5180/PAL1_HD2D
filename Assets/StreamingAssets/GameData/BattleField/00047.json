@@ -1,0 +1,11 @@
+{
+  "Name": "片尾_阿奴",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": -1,
+    "Thunder": -2,
+    "Water": 0,
+    "Fire": 2,
+    "Earth": 0
+  }
+}

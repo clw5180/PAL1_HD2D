@@ -1,0 +1,55 @@
+{
+  "Name": "黄衣刀僧",
+  "Health": 330,
+  "Exp": 30,
+  "Cash": 0,
+  "Level": 7,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 4,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 4,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 45,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 408,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 190,
+    "CallSound": 94
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

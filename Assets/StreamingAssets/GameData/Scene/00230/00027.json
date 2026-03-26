@@ -1,0 +1,24 @@
+{
+  "Name": "后向苗人枪",
+  "VanishTime": 0,
+  "X": 1616,
+  "Y": 1224,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 600,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00230_00026_Trigger",
+    "Auto": "Event_00229_00016_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

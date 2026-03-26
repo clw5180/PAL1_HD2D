@@ -1,0 +1,8 @@
+{
+  "Name": "仙灵岛_洞天",
+  "MapId": 8,
+  "Script": {
+    "Enter": "Scene_00020_Enter",
+    "Teleport": ""
+  }
+}

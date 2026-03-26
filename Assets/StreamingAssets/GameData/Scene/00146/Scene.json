@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔_底层_灵儿被缚",
+  "MapId": 74,
+  "Script": {
+    "Enter": "Scene_00146_Enter",
+    "Teleport": ""
+  }
+}

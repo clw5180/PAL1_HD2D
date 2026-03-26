@@ -1,0 +1,55 @@
+{
+  "Name": "大蝌蚪",
+  "Health": 845,
+  "Exp": 170,
+  "Cash": 0,
+  "Level": 30,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 4,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 3,
+      "Water": 5,
+      "Fire": 10,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 34,
+    "IdleFrames": 4,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 3,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 392,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 30,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

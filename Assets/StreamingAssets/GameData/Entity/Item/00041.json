@@ -1,0 +1,23 @@
+{
+  "Name": "金创药",
+  "Description": [
+    "上等刀伤药，去腐生肌。",
+    "HP+200"
+  ],
+  "BitmapId": 138,
+  "Price": 280,
+  "Script": {
+    "Use": "Item_00041_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

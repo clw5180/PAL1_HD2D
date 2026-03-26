@@ -1,0 +1,55 @@
+{
+  "Name": "狐狸精",
+  "Health": 1500,
+  "Exp": 180,
+  "Cash": 0,
+  "Level": 5,
+  "MagicId": 22,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 67,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 10,
+    "MagicStrength": -40,
+    "Defense": 0,
+    "Dexterity": 20,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 0,
+    "Sorcery": 4,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 7,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 72,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 14
+  },
+  "Sound": {
+    "AttackSound": 458,
+    "ActionSound": 0,
+    "MagicSound": 459,
+    "DeathSound": 269,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": "Enemy_00072_Action"
+  }
+}

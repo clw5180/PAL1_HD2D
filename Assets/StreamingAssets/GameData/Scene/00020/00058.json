@@ -1,0 +1,24 @@
+{
+  "Name": "鲤鱼",
+  "VanishTime": 0,
+  "X": 672,
+  "Y": 624,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 1,
+    "SpriteFrames": 4,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "Event_00006_00007_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

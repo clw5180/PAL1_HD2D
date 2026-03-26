@@ -1,0 +1,31 @@
+{
+  "Name": "气魔焰",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 255,
+  "SoundId": 175,
+  "Type": 4,
+  "ActionType": 1,
+  "Effect": {
+    "EffectId": 74,
+    "XOffset": -10,
+    "YOffset": 24,
+    "LayerOffset": -25,
+    "FrameDelay": 4,
+    "KeepEffect": -1,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": "Magic_00045_Use"
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

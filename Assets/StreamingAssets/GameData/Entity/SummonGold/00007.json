@@ -1,0 +1,32 @@
+{
+  "Name": "剑神",
+  "Description": [
+    "召唤剑神，万剑齐飞。"
+  ],
+  "CostMP": 64,
+  "BaseDamage": 450,
+  "SoundId": 343,
+  "Type": 0,
+  "Effect": {
+    "SpriteId": 7,
+    "EffectId": 63,
+    "XOffset": 0,
+    "YOffset": 0,
+    "IdleFrames": 4,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "ColorShift": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "桃源村",
+  "MapId": 158,
+  "Script": {
+    "Enter": "Scene_00176_Enter",
+    "Teleport": ""
+  }
+}

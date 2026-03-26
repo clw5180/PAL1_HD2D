@@ -1,0 +1,23 @@
+{
+  "Name": "腹蛇涎",
+  "Description": [
+    "腹蛇的毒涎。",
+    "毒性：瘴毒"
+  ],
+  "BitmapId": 159,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00070_Use",
+    "Equip": "",
+    "Throw": "Item_00070_Throw"
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

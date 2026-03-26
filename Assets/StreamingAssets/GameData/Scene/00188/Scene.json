@@ -1,0 +1,8 @@
+{
+  "Name": "树洞_开",
+  "MapId": 155,
+  "Script": {
+    "Enter": "Scene_00188_Enter",
+    "Teleport": ""
+  }
+}

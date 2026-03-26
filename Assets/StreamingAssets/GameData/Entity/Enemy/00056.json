@@ -1,0 +1,55 @@
+{
+  "Name": "灰衣喇嘛",
+  "Health": 800,
+  "Exp": 50,
+  "Cash": 0,
+  "Level": 7,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 12,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 5,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 4,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 4,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 56,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 3,
+    "YPosOffset": 6
+  },
+  "Sound": {
+    "AttackSound": 428,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 266,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

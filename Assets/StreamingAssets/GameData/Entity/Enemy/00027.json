@@ -1,0 +1,55 @@
+{
+  "Name": "小独角",
+  "Health": 700,
+  "Exp": 170,
+  "Cash": 0,
+  "Level": 31,
+  "MagicId": 10,
+  "MagicRate": 2,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 18,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 6,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 2,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 10,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 27,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 6,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 381,
+    "ActionSound": 0,
+    "MagicSound": 381,
+    "DeathSound": 30,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "蝎子",
+  "VanishTime": 0,
+  "X": 992,
+  "Y": 1024,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 625,
+    "SpriteFrames": 2,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00220_00014_Trigger",
+    "Auto": "Event_00005_00002_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

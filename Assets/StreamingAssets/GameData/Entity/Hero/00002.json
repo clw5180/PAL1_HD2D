@@ -1,0 +1,147 @@
+{
+  "AvatarId": 11,
+  "SpriteIdInBattle": 1,
+  "SpriteId": 1,
+  "Name": "赵灵儿",
+  "CanAttackAll": false,
+  "Level": 5,
+  "MaxHP": 240,
+  "HP": 28,
+  "MaxMP": 10,
+  "MP": 10,
+  "CoveredBy": 0,
+  "WalkFrames": 0,
+  "Equipment": {
+    "Head": 225,
+    "Cloak": 0,
+    "Body": 228,
+    "Hand": 234,
+    "Foot": 231,
+    "Ornament": 231
+  },
+  "BaseAttribute": {
+    "AttackStrength": 20,
+    "MagicStrength": 64,
+    "Defense": 28,
+    "Dexterity": 55,
+    "FleeRate": 18
+  },
+  "Resistance": {
+    "Poison": 0,
+    "Elemental": {
+      "Wind": 0,
+      "Thunder": 0,
+      "Water": 0,
+      "Fire": 0,
+      "Earth": 0
+    }
+  },
+  "Sound": {
+    "Death": 24,
+    "Attack": 38,
+    "Weapon": 2,
+    "Critical": 6,
+    "Magic": 10,
+    "Cover": 16,
+    "Dying": 20
+  },
+  "Script": {
+    "FriendDeath": "",
+    "Dying": "Hero_00002_Dying"
+  },
+  "Magic": {
+    "Cooperative": 80,
+    "Learned": [
+      19,
+      22,
+      26,
+      31,
+      36,
+      13,
+      4,
+      16,
+      10,
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Learnable": [
+      {
+        "Level": 7,
+        "MagicId": 20
+      },
+      {
+        "Level": 8,
+        "MagicId": 7
+      },
+      {
+        "Level": 9,
+        "MagicId": 27
+      },
+      {
+        "Level": 10,
+        "MagicId": 37
+      },
+      {
+        "Level": 11,
+        "MagicId": 23
+      },
+      {
+        "Level": 13,
+        "MagicId": 32
+      },
+      {
+        "Level": 15,
+        "MagicId": 21
+      },
+      {
+        "Level": 17,
+        "MagicId": 28
+      },
+      {
+        "Level": 20,
+        "MagicId": 38
+      },
+      {
+        "Level": 22,
+        "MagicId": 24
+      },
+      {
+        "Level": 24,
+        "MagicId": 39
+      },
+      {
+        "Level": 26,
+        "MagicId": 25
+      },
+      {
+        "Level": 28,
+        "MagicId": 34
+      },
+      {
+        "Level": 30,
+        "MagicId": 30006
+      }
+    ]
+  }
+}

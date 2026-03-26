@@ -1,0 +1,55 @@
+{
+  "Name": "雷龙",
+  "Health": 1100,
+  "Exp": 580,
+  "Cash": 0,
+  "Level": 33,
+  "MagicId": 38,
+  "MagicRate": 6,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 88,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 4,
+    "Poison": 3,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 7,
+      "Thunder": 7,
+      "Water": 7,
+      "Fire": 2,
+      "Earth": 9
+    }
+  },
+  "Effect": {
+    "EffectId": 123,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 236,
+    "ActionSound": 0,
+    "MagicSound": 236,
+    "DeathSound": 192,
+    "CallSound": 90
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

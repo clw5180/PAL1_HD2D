@@ -1,0 +1,24 @@
+{
+  "Name": "菩提袈裟",
+  "Description": [
+    "高等僧衣，又名「无垢衣」，",
+    "多为高僧与长老所穿。",
+    "防御+31　灵力+16"
+  ],
+  "BitmapId": 205,
+  "Price": 4100,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00170_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "赤蝎粉",
+  "Description": [
+    "以整只赤尾蝎研磨成的粉末，",
+    "可使敌方全体中赤毒。"
+  ],
+  "BitmapId": 175,
+  "Price": 700,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": "Item_00073_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

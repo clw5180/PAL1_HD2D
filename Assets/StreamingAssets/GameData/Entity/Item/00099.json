@@ -1,0 +1,23 @@
+{
+  "Name": "缠魂丝",
+  "Description": [
+    "千年蜘蛛的毒丝。",
+    "毒性：毒丝"
+  ],
+  "BitmapId": 72,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00099_Use",
+    "Equip": "",
+    "Throw": "Item_00099_Throw"
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

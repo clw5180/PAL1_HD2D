@@ -1,0 +1,55 @@
+{
+  "Name": "蛹",
+  "Health": 28,
+  "Exp": 2,
+  "Cash": 0,
+  "Level": 1,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 88,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": -4,
+    "MagicStrength": 0,
+    "Defense": 3,
+    "Dexterity": -2,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 0,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 0
+    }
+  },
+  "Effect": {
+    "EffectId": 7,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 6,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 50,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 216,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "Enemy_00007_Won",
+    "Action": ""
+  }
+}

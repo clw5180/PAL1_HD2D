@@ -1,0 +1,24 @@
+{
+  "Name": "南蛮王",
+  "VanishTime": 0,
+  "X": 1152,
+  "Y": 1056,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 24,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00206_00010_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

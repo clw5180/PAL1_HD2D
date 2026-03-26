@@ -1,0 +1,31 @@
+{
+  "Name": "横扫千军",
+  "Description": [],
+  "CostMP": 46,
+  "BaseDamage": 280,
+  "SoundId": 132,
+  "Type": 0,
+  "ActionType": 2,
+  "Effect": {
+    "EffectId": 16,
+    "XOffset": 0,
+    "YOffset": 44,
+    "LayerOffset": 0,
+    "FrameDelay": 0,
+    "KeepEffect": -1,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": "Magic_00045_Use"
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

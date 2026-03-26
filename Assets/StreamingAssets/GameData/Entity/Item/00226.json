@@ -1,0 +1,22 @@
+{
+  "Name": "六神丹",
+  "Description": [
+    "韩家药铺的祖传妇女良药。"
+  ],
+  "BitmapId": 236,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00226_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

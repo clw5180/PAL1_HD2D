@@ -1,0 +1,55 @@
+{
+  "Name": "紫凤鸟",
+  "Health": 610,
+  "Exp": 95,
+  "Cash": 0,
+  "Level": 28,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 88,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 2,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 2,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 3,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 116,
+    "IdleFrames": 4,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 3,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 71,
+    "ActionSound": 0,
+    "MagicSound": 71,
+    "DeathSound": 183,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

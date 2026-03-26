@@ -1,0 +1,55 @@
+{
+  "Name": "冰神龙",
+  "Health": 7250,
+  "Exp": 2950,
+  "Cash": 0,
+  "Level": 30,
+  "MagicId": 29,
+  "MagicRate": 5,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 9,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 6,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 7,
+      "Thunder": 0,
+      "Water": 10,
+      "Fire": 4,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 145,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 12
+  },
+  "Sound": {
+    "AttackSound": 59,
+    "ActionSound": 0,
+    "MagicSound": 230,
+    "DeathSound": 179,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

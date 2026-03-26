@@ -1,0 +1,55 @@
+{
+  "Name": "铁棍魔兵",
+  "Health": 3100,
+  "Exp": 820,
+  "Cash": 0,
+  "Level": 42,
+  "MagicId": 78,
+  "MagicRate": 3,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 88,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 0,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 0,
+      "Water": 4,
+      "Fire": 4,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 112,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 265,
+    "ActionSound": 4,
+    "MagicSound": 265,
+    "DeathSound": 190,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

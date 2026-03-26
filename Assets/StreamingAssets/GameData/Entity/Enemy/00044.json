@@ -1,0 +1,55 @@
+{
+  "Name": "扫把",
+  "Health": 230,
+  "Exp": 38,
+  "Cash": 0,
+  "Level": 15,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 5,
+      "Water": 4,
+      "Fire": 2,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 44,
+    "IdleFrames": 2,
+    "MagicFrames": 3,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 407,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 186,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "胖苗",
+  "Health": 800,
+  "Exp": 110,
+  "Cash": 0,
+  "Level": 4,
+  "MagicId": 41,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 41,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 8,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 5,
+    "Sorcery": 3,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 87,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 1,
+    "YPosOffset": 16
+  },
+  "Sound": {
+    "AttackSound": 482,
+    "ActionSound": 0,
+    "MagicSound": -483,
+    "DeathSound": 266,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "Enemy_00088_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

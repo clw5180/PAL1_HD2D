@@ -1,0 +1,103 @@
+{
+  "AvatarId": 27,
+  "SpriteIdInBattle": 4,
+  "SpriteId": 4,
+  "Name": "阿奴",
+  "CanAttackAll": false,
+  "Level": 28,
+  "MaxHP": 480,
+  "HP": 480,
+  "MaxMP": 410,
+  "MP": 410,
+  "CoveredBy": 0,
+  "WalkFrames": 0,
+  "Equipment": {
+    "Head": 235,
+    "Cloak": 237,
+    "Body": 238,
+    "Hand": 243,
+    "Foot": 0,
+    "Ornament": 244
+  },
+  "BaseAttribute": {
+    "AttackStrength": 168,
+    "MagicStrength": 220,
+    "Defense": 110,
+    "Dexterity": 160,
+    "FleeRate": 150
+  },
+  "Resistance": {
+    "Poison": 0,
+    "Elemental": {
+      "Wind": 0,
+      "Thunder": 0,
+      "Water": 0,
+      "Fire": 0,
+      "Earth": 0
+    }
+  },
+  "Sound": {
+    "Death": 26,
+    "Attack": 40,
+    "Weapon": 4,
+    "Critical": 8,
+    "Magic": 12,
+    "Cover": 18,
+    "Dying": 22
+  },
+  "Script": {
+    "FriendDeath": "",
+    "Dying": ""
+  },
+  "Magic": {
+    "Cooperative": 56,
+    "Learned": [
+      54,
+      53,
+      33,
+      24,
+      92,
+      15,
+      6,
+      9,
+      12,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Learnable": [
+      {
+        "Level": 30,
+        "MagicId": 55
+      },
+      {
+        "Level": 33,
+        "MagicId": 73
+      },
+      {
+        "Level": 35,
+        "MagicId": 71
+      }
+    ]
+  }
+}

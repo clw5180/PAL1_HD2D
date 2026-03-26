@@ -1,0 +1,23 @@
+{
+  "Name": "布靴",
+  "Description": [
+    "粗布缝制的长统靴。",
+    "防御+3　身法+2"
+  ],
+  "BitmapId": 212,
+  "Price": 120,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00177_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "123"
+  }
+}

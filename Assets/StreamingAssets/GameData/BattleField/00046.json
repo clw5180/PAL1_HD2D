@@ -1,0 +1,11 @@
+{
+  "Name": "片尾_音乐音效",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": 1,
+    "Thunder": 0,
+    "Water": 0,
+    "Fire": 0,
+    "Earth": 0
+  }
+}

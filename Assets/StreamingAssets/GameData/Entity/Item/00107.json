@@ -1,0 +1,24 @@
+{
+  "Name": "短刀",
+  "Description": [
+    "一尺半长的钝刀，",
+    "可用来劈砍木材。",
+    "武术+6　身法-5"
+  ],
+  "BitmapId": 48,
+  "Price": 200,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00107_Equip",
+    "Throw": "Item_00107_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "13"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "长安",
+  "MapId": 105,
+  "Script": {
+    "Enter": "Scene_00101_Enter",
+    "Teleport": ""
+  }
+}

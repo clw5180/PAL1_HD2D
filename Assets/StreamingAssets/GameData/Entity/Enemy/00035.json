@@ -1,0 +1,55 @@
+{
+  "Name": "蚌壳",
+  "Health": 1354,
+  "Exp": 170,
+  "Cash": 0,
+  "Level": 33,
+  "MagicId": 10,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 192,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 5,
+    "Poison": 6,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 4,
+      "Water": 6,
+      "Fire": 10,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 35,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 6,
+    "ActWaitFrames": 3,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 393,
+    "ActionSound": 0,
+    "MagicSound": 394,
+    "DeathSound": 30,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

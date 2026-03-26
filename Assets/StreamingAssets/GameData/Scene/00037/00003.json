@@ -1,0 +1,24 @@
+{
+  "Name": "化蛇灵儿",
+  "VanishTime": 0,
+  "X": 1072,
+  "Y": 696,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": true,
+    "Range": 5
+  },
+  "Sprite": {
+    "SpriteId": 246,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00037_00003_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

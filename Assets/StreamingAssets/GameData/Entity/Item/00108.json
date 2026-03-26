@@ -1,0 +1,24 @@
+{
+  "Name": "铁剑",
+  "Description": [
+    "一般铁匠大量生产的剑，",
+    "打造得颇为粗劣。",
+    "武术+10　防御+3"
+  ],
+  "BitmapId": 49,
+  "Price": 850,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00108_Equip",
+    "Throw": "Item_00108_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "13"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "玉佛寺_寺外_庙宇未消失",
+  "MapId": 69,
+  "Script": {
+    "Enter": "Scene_00057_Enter",
+    "Teleport": ""
+  }
+}

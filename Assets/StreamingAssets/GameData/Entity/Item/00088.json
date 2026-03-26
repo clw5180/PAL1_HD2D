@@ -1,0 +1,22 @@
+{
+  "Name": "蛊",
+  "Description": [
+    "巫师施法所需的材料。"
+  ],
+  "BitmapId": 132,
+  "Price": 100,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

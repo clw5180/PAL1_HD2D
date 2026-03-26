@@ -1,0 +1,24 @@
+{
+  "Name": "儿童2",
+  "VanishTime": 0,
+  "X": 816,
+  "Y": 1464,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 151,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00050_00011_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

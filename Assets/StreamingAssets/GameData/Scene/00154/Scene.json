@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔_底层_妖议",
+  "MapId": 74,
+  "Script": {
+    "Enter": "Scene_00154_Enter",
+    "Teleport": ""
+  }
+}

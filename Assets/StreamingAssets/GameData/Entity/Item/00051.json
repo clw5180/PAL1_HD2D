@@ -1,0 +1,23 @@
+{
+  "Name": "灵葫仙丹",
+  "Description": [
+    "修道隐士所炼丹药。",
+    "HPMP+250"
+  ],
+  "BitmapId": 109,
+  "Price": 2500,
+  "Script": {
+    "Use": "Item_00051_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

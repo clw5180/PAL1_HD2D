@@ -1,0 +1,8 @@
+{
+  "Name": "无底深渊_起始",
+  "MapId": 192,
+  "Script": {
+    "Enter": "Scene_00294_Enter",
+    "Teleport": ""
+  }
+}

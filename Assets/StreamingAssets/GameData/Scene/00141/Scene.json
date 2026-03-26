@@ -1,0 +1,8 @@
+{
+  "Name": "毒仙林_大蜘蛛居所_战后",
+  "MapId": 130,
+  "Script": {
+    "Enter": "Scene_00141_Enter",
+    "Teleport": ""
+  }
+}

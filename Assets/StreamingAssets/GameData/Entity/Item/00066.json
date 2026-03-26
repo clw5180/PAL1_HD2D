@@ -1,0 +1,24 @@
+{
+  "Name": "醍醐香",
+  "Description": [
+    "紫叶小白花，散发浓郁香气，",
+    "闻到香气，便如酒醉一般。",
+    "定身四回合"
+  ],
+  "BitmapId": 160,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00066_Use",
+    "Equip": "",
+    "Throw": "Item_00066_Throw"
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

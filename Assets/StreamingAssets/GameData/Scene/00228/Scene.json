@@ -1,0 +1,8 @@
+{
+  "Name": "路途_回魂仙梦",
+  "MapId": 176,
+  "Script": {
+    "Enter": "Scene_00228_Enter",
+    "Teleport": ""
+  }
+}

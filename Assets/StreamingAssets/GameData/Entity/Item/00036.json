@@ -1,0 +1,24 @@
+{
+  "Name": "赎魂灯",
+  "Description": [
+    "以莲灯作法与鬼差交涉，",
+    "赎回死者魂魄。",
+    "HP恢复30%"
+  ],
+  "BitmapId": 153,
+  "Price": 1500,
+  "Script": {
+    "Use": "Item_00036_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

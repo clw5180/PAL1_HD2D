@@ -1,0 +1,8 @@
+{
+  "Name": "苏州_林家堡_演武厅_演武结束",
+  "MapId": 50,
+  "Script": {
+    "Enter": "Scene_00034_Enter",
+    "Teleport": ""
+  }
+}

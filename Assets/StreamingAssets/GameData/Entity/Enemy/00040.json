@@ -1,0 +1,55 @@
+{
+  "Name": "海螺女",
+  "Health": 1930,
+  "Exp": 450,
+  "Cash": 0,
+  "Level": 35,
+  "MagicId": 60,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 84,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 30,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 5,
+    "Poison": 4,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 8,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 10,
+      "Earth": 0
+    }
+  },
+  "Effect": {
+    "EffectId": 40,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 7,
+    "ActWaitFrames": 3,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 400,
+    "ActionSound": 0,
+    "MagicSound": -401,
+    "DeathSound": 182,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "金蚕蛊毒",
+  "Level": 3,
+  "Color": 176,
+  "Script": {
+    "Player": "Poison_00010_Player",
+    "Enemy": "Poison_00010_Enemy"
+  }
+}

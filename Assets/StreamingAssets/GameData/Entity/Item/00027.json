@@ -1,0 +1,23 @@
+{
+  "Name": "雄黄",
+  "Description": [
+    "天然产的矿物，块状、色黄，",
+    "可解赤毒。"
+  ],
+  "BitmapId": 148,
+  "Price": 50,
+  "Script": {
+    "Use": "Item_00027_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

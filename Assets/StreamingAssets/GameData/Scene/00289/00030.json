@@ -1,0 +1,24 @@
+{
+  "Name": "篝火",
+  "VanishTime": 0,
+  "X": 1568,
+  "Y": 1088,
+  "Layer": 6,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 619,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 6
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "Event_00023_00011_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

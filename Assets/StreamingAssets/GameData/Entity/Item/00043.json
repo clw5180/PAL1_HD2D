@@ -1,0 +1,24 @@
+{
+  "Name": "紫菁玉蓉膏",
+  "Description": [
+    "依宫廷秘方，采珍贵药材炼制，",
+    "是疗伤药的极品。",
+    "HP+1000"
+  ],
+  "BitmapId": 179,
+  "Price": 1700,
+  "Script": {
+    "Use": "Item_00043_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "山路_白苗驿站_驿站外",
+  "MapId": 101,
+  "Script": {
+    "Enter": "Scene_00107_Enter",
+    "Teleport": ""
+  }
+}

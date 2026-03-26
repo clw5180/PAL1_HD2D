@@ -1,0 +1,33 @@
+['Scene_00171_Enter'];
+PartySetPos(34, 89, 0);
+HeroSetSprite(0, Sprite.李逍遥惊艳, true);
+RoleSetDirFrame(0, 4, 0);
+FadeToScene(6, -1);
+EventSetDirFrame(171, 1, 0, 9);
+WaitEventAutoScriptRun(8, false, false);
+EventSetDirFrame(171, 1, 0, 10);
+WaitEventAutoScriptRun(4, false, false);
+SetDlgLower(0, 0, false);
+//$05我的衣服呢？~65
+WaitEventAutoScriptRun(0, false, false);
+RoleSetDirFrame(0, 2, 0);
+WaitEventAutoScriptRun(8, false, false);
+RoleSetDirFrame(0, 3, 0);
+WaitEventAutoScriptRun(2, false, false);
+RoleSetDirFrame(0, 2, 0);
+WaitEventAutoScriptRun(2, false, false);
+RoleSetDirFrame(0, 3, 0);
+EventSetDirFrame(171, 1, 0, 11);
+WaitEventAutoScriptRun(2, false, false);
+RoleSetDirFrame(0, 2, 0);
+EventSetDirFrame(171, 1, 0, 12);
+WaitEventAutoScriptRun(2, false, false);
+RoleSetDirFrame(0, 3, 0);
+EventSetDirFrame(171, 1, 0, 13);
+WaitEventAutoScriptRun(2, false, false);
+EventSetDirFrame(171, 1, 0, 14);
+WaitEventAutoScriptRun(2, false, false);
+EventSetDirFrame(171, 1, 0, 15);
+WaitEventAutoScriptRun(10, false, false);
+SceneEnter(172);
+

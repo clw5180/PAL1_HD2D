@@ -1,0 +1,8 @@
+{
+  "Name": "仙灵岛_莲池_断",
+  "MapId": 6,
+  "Script": {
+    "Enter": "Scene_00018_Enter",
+    "Teleport": ""
+  }
+}

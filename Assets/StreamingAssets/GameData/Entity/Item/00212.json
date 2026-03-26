@@ -1,0 +1,22 @@
+{
+  "Name": "桂花酒",
+  "Description": [
+    "掺了水的酒。"
+  ],
+  "BitmapId": 110,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00212_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

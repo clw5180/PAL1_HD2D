@@ -1,0 +1,24 @@
+{
+  "Name": "居民",
+  "VanishTime": 0,
+  "X": 832,
+  "Y": 704,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 33,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00029_00010_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

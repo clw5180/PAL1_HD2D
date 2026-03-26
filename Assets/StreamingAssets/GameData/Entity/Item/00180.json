@@ -1,0 +1,23 @@
+{
+  "Name": "武僧靴",
+  "Description": [
+    "罗汉僧练武所穿的布靴。",
+    "防御+8　身法+6"
+  ],
+  "BitmapId": 102,
+  "Price": 2000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00180_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

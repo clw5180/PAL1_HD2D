@@ -1,0 +1,23 @@
+{
+  "Name": "鸡蛋",
+  "Description": [
+    "便宜而常见的食物。",
+    "HPMP+10"
+  ],
+  "BitmapId": 111,
+  "Price": 30,
+  "Script": {
+    "Use": "Item_00019_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

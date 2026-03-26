@@ -1,0 +1,23 @@
+{
+  "Name": "长鞭",
+  "Description": [
+    "生牛皮制的七尺软鞭。",
+    "武术+20　身法+20"
+  ],
+  "BitmapId": 16,
+  "Price": 1700,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00103_Equip",
+    "Throw": "Item_00103_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "3"
+  }
+}

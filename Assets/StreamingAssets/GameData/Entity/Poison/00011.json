@@ -1,0 +1,9 @@
+{
+  "Name": "食妖虫附",
+  "Level": 4,
+  "Color": 0,
+  "Script": {
+    "Player": "",
+    "Enemy": "Poison_00011_Enemy"
+  }
+}

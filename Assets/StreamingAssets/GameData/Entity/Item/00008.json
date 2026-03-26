@@ -1,0 +1,22 @@
+{
+  "Name": "雷灵符",
+  "Description": [
+    "产生雷系法术的符咒。"
+  ],
+  "BitmapId": 193,
+  "Price": 1200,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": "Item_00008_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Name": "锁妖塔",
+  "ScreenWave": 4,
+  "ElementalEffect": {
+    "Wind": 0,
+    "Thunder": 0,
+    "Water": -5,
+    "Fire": 3,
+    "Earth": 0
+  }
+}

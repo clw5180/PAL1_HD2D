@@ -1,0 +1,23 @@
+{
+  "Name": "梅花镖",
+  "Description": [
+    "形如梅花的暗器。",
+    "敌人HP-90"
+  ],
+  "BitmapId": 113,
+  "Price": 280,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": "Item_00093_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

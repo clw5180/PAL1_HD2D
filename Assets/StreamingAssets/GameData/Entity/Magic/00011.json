@@ -1,0 +1,33 @@
+{
+  "Name": "夺魂",
+  "Description": [
+    "吸取敌人魂魄，中者立毙。"
+  ],
+  "CostMP": 83,
+  "BaseDamage": -999,
+  "SoundId": 170,
+  "Type": 7,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 67,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "Magic_00011_Success",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

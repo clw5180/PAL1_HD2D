@@ -1,0 +1,55 @@
+{
+  "Name": "石鬼头",
+  "Health": 936,
+  "Exp": 150,
+  "Cash": 0,
+  "Level": 33,
+  "MagicId": 19,
+  "MagicRate": 5,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 53,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": -10,
+    "MagicStrength": 10,
+    "Defense": 20,
+    "Dexterity": -30,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 5,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 10,
+      "Thunder": 2,
+      "Water": 8,
+      "Fire": 9,
+      "Earth": 7
+    }
+  },
+  "Effect": {
+    "EffectId": 16,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 366,
+    "ActionSound": 0,
+    "MagicSound": 367,
+    "DeathSound": 32,
+    "CallSound": 93
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "金缕衣",
+  "Description": [
+    "以金线穿玉片编制而成",
+    "又称「金缕玉衣」。",
+    "防御+47 身法-10"
+  ],
+  "BitmapId": 208,
+  "Price": 12000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00158_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

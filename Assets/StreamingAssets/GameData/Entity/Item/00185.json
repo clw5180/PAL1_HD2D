@@ -1,0 +1,23 @@
+{
+  "Name": "龙鳞靴",
+  "Description": [
+    "以龙鳞编缀而成。",
+    "防御+25　身法+12"
+  ],
+  "BitmapId": 103,
+  "Price": 10000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00185_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "123"
+  }
+}

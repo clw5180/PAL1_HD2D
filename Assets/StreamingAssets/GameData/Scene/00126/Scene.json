@@ -1,0 +1,8 @@
+{
+  "Name": "长安_尚书府_刘晋元居所_刘晋元房间_刘晋元立",
+  "MapId": 114,
+  "Script": {
+    "Enter": "Scene_00126_Enter",
+    "Teleport": ""
+  }
+}

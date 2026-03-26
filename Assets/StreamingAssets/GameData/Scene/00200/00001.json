@@ -1,0 +1,24 @@
+{
+  "Name": "逍遥救下灵儿",
+  "VanishTime": 0,
+  "X": 1696,
+  "Y": 416,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 511,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 4
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

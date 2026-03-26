@@ -1,0 +1,55 @@
+{
+  "Name": "绿叶小妖",
+  "Health": 40,
+  "Exp": 1,
+  "Cash": 0,
+  "Level": 0,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": -2,
+    "MagicStrength": 0,
+    "Defense": -6,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 0,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 9,
+      "Fire": 0,
+      "Earth": 9
+    }
+  },
+  "Effect": {
+    "EffectId": 100,
+    "IdleFrames": 2,
+    "MagicFrames": 7,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 219,
+    "ActionSound": 0,
+    "MagicSound": 219,
+    "DeathSound": 186,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "Enemy_00102_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

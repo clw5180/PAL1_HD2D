@@ -1,0 +1,33 @@
+{
+  "Name": "回梦",
+  "Description": [
+    "敌方单人昏睡四回合。"
+  ],
+  "CostMP": 20,
+  "BaseDamage": -999,
+  "SoundId": 169,
+  "Type": 7,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 66,
+    "XOffset": 0,
+    "YOffset": 4,
+    "LayerOffset": 99,
+    "FrameDelay": 2,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "Magic_00010_Success",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

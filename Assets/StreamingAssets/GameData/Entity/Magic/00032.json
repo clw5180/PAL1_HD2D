@@ -1,0 +1,34 @@
+{
+  "Name": "三昧真火",
+  "Description": [
+    "火系中级法术，",
+    "攻击敌方全体。"
+  ],
+  "CostMP": 16,
+  "BaseDamage": 115,
+  "SoundId": 312,
+  "Type": 4,
+  "ActionType": 1,
+  "Effect": {
+    "EffectId": 42,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 3,
+    "FrameDelay": 1,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 1
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

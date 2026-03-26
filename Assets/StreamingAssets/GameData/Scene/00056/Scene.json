@@ -1,0 +1,8 @@
+{
+  "Name": "鬼阴山_山路",
+  "MapId": 60,
+  "Script": {
+    "Enter": "Scene_00056_Enter",
+    "Teleport": "Scene_00055_Teleport"
+  }
+}

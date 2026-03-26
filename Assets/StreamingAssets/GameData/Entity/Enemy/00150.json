@@ -1,0 +1,55 @@
+{
+  "Name": "八头蛇",
+  "Health": 7800,
+  "Exp": 3050,
+  "Cash": 0,
+  "Level": 40,
+  "MagicId": 72,
+  "MagicRate": 5,
+  "AttackEquivItemId": 70,
+  "AttackEquivItemRate": 5,
+  "StealItemId": 218,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 20,
+    "MagicStrength": -20,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 6,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 4,
+      "Water": 10,
+      "Fire": 5,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 150,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 16
+  },
+  "Sound": {
+    "AttackSound": 236,
+    "ActionSound": 0,
+    "MagicSound": 236,
+    "DeathSound": 192,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": "Enemy_00150_Action"
+  }
+}

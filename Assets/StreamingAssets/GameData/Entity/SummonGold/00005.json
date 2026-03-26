@@ -1,0 +1,33 @@
+{
+  "Name": "天剑",
+  "Description": [
+    "人剑合一，身化利剑，",
+    "攻击敌方全体。"
+  ],
+  "CostMP": 44,
+  "BaseDamage": 303,
+  "SoundId": 304,
+  "Type": 0,
+  "Effect": {
+    "SpriteId": 1,
+    "EffectId": 50,
+    "XOffset": 8,
+    "YOffset": -5,
+    "IdleFrames": 0,
+    "MagicFrames": 0,
+    "AttackFrames": 13,
+    "ColorShift": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

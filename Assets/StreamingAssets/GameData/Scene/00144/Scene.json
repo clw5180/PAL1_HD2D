@@ -1,0 +1,8 @@
+{
+  "Name": "忆往昔_晋元房双亲订婚",
+  "MapId": 114,
+  "Script": {
+    "Enter": "Scene_00144_Enter",
+    "Teleport": ""
+  }
+}

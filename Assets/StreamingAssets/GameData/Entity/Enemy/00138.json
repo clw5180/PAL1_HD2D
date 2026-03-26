@@ -1,0 +1,55 @@
+{
+  "Name": "紫兽人",
+  "Health": 850,
+  "Exp": 85,
+  "Cash": 0,
+  "Level": 29,
+  "MagicId": 86,
+  "MagicRate": 2,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 88,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 20,
+    "MagicStrength": -45,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 3,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 4,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 137,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 4,
+    "ActWaitFrames": 1,
+    "YPosOffset": 2
+  },
+  "Sound": {
+    "AttackSound": 265,
+    "ActionSound": 0,
+    "MagicSound": 265,
+    "DeathSound": 185,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

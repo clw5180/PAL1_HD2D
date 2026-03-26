@@ -1,0 +1,55 @@
+{
+  "Name": "黑蜘蛛精",
+  "Health": 2450,
+  "Exp": 420,
+  "Cash": 0,
+  "Level": 15,
+  "MagicId": 23,
+  "MagicRate": 4,
+  "AttackEquivItemId": 99,
+  "AttackEquivItemRate": 4,
+  "StealItemId": 99,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 20,
+    "Defense": 20,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 4,
+    "Poison": 6,
+    "Sorcery": 2,
+    "Elemental": {
+      "Wind": 1,
+      "Thunder": 10,
+      "Water": 8,
+      "Fire": 6,
+      "Earth": 8
+    }
+  },
+  "Effect": {
+    "EffectId": 99,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 502,
+    "ActionSound": 0,
+    "MagicSound": -503,
+    "DeathSound": 246,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "Enemy_00068_Won",
+    "Action": ""
+  }
+}

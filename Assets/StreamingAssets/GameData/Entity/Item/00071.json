@@ -1,0 +1,23 @@
+{
+  "Name": "蜂王蜜",
+  "Description": [
+    "蜜蜂所酿最好的蜜。",
+    "HPMP+150"
+  ],
+  "BitmapId": 157,
+  "Price": 1200,
+  "Script": {
+    "Use": "Item_00071_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

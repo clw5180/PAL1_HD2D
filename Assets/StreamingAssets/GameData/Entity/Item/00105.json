@@ -1,0 +1,23 @@
+{
+  "Name": "金蛇鞭",
+  "Description": [
+    "以蛇皮绞以金丝编织成九尺软鞭。",
+    "武术+99　身法+60"
+  ],
+  "BitmapId": 20,
+  "Price": 10100,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00105_Equip",
+    "Throw": "Item_00105_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "3"
+  }
+}

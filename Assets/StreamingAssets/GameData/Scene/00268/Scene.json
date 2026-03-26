@@ -1,0 +1,8 @@
+{
+  "Name": "大理_族议厅_战",
+  "MapId": 195,
+  "Script": {
+    "Enter": "Scene_00268_Enter",
+    "Teleport": ""
+  }
+}

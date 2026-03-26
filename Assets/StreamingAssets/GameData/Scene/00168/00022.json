@@ -1,0 +1,24 @@
+{
+  "Name": "孽龙",
+  "VanishTime": 0,
+  "X": 1152,
+  "Y": 1312,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 460,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00149_00015_Trigger",
+    "Auto": "Event_00005_00002_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "凤梨小妖",
+  "Health": 1750,
+  "Exp": 150,
+  "Cash": 0,
+  "Level": 28,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 44,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 7,
+    "MagicStrength": 0,
+    "Defense": 7,
+    "Dexterity": 15,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 5,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 6,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 5,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 6,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 354,
+    "ActionSound": 0,
+    "MagicSound": 219,
+    "DeathSound": 186,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "Enemy_00005_Won",
+    "Action": "Enemy_00005_Action"
+  }
+}

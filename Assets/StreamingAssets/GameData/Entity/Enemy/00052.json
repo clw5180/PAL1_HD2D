@@ -1,0 +1,55 @@
+{
+  "Name": "角力士",
+  "Health": 650,
+  "Exp": 70,
+  "Cash": 0,
+  "Level": 25,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 45,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 20,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 4,
+    "Poison": 4,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 3,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 4,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 52,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 4
+  },
+  "Sound": {
+    "AttackSound": 415,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 266,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "Enemy_00050_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "合体气功",
+  "Description": [],
+  "CostMP": 9,
+  "BaseDamage": 90,
+  "SoundId": 129,
+  "Type": 0,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 86,
+    "XOffset": 32,
+    "YOffset": 20,
+    "LayerOffset": 99,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

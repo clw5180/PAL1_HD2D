@@ -1,0 +1,23 @@
+{
+  "Name": "青龙宝甲",
+  "Description": [
+    "龙鳞编缀而成，世间绝顶战甲。",
+    "防御+90"
+  ],
+  "BitmapId": 209,
+  "Price": 29500,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00161_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "2"
+  }
+}

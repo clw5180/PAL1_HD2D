@@ -1,0 +1,24 @@
+{
+  "Name": "玄冥宝刀",
+  "Description": [
+    "可连续攻击敌方全体两次，",
+    "传说是魔族的邪异兵器。",
+    "武术+98　身法+98　吉运+98"
+  ],
+  "BitmapId": 67,
+  "Price": 20000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00127_Equip",
+    "Throw": "Item_00127_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "5"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "玉菩提",
+  "Description": [
+    "墨玉菩提树的种籽。",
+    "最大真气值+5"
+  ],
+  "BitmapId": 149,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00013_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

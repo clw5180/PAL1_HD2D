@@ -1,0 +1,8 @@
+{
+  "Name": "蛤蟆洞_前段",
+  "MapId": 99,
+  "Script": {
+    "Enter": "Scene_00104_Enter",
+    "Teleport": "Event_00102_00002_Trigger"
+  }
+}

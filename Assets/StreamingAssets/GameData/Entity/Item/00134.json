@@ -1,0 +1,24 @@
+{
+  "Name": "冥蛇杖",
+  "Description": [
+    "来自冥界之魔杖，号令群邪，",
+    "杖头镶嵌千年蛇王内丹。",
+    "武术+88　灵力+120　防御+22"
+  ],
+  "BitmapId": 70,
+  "Price": 27000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00134_Equip",
+    "Throw": "Item_00134_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "25"
+  }
+}

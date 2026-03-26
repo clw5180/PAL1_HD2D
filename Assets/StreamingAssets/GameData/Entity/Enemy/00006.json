@@ -1,0 +1,55 @@
+{
+  "Name": "蜜蜂",
+  "Health": 32,
+  "Exp": 2,
+  "Cash": 0,
+  "Level": 1,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 57,
+  "AttackEquivItemRate": 2,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": -1,
+    "MagicStrength": 0,
+    "Defense": -7,
+    "Dexterity": 7,
+    "FleeRate": 2
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 10,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 7,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 0,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 6,
+    "IdleFrames": 4,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 1,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 355,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 30,
+    "CallSound": 2
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "Enemy_00006_Won",
+    "Action": ""
+  }
+}

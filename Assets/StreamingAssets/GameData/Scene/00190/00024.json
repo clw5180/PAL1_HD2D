@@ -1,0 +1,24 @@
+{
+  "Name": "蘑菇怪",
+  "VanishTime": 0,
+  "X": 784,
+  "Y": 168,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 462,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00181_00009_Trigger",
+    "Auto": "Event_00181_00006_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

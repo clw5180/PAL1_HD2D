@@ -1,0 +1,23 @@
+{
+  "Name": "丝衣",
+  "Description": [
+    "以蚕丝纺织而成，轻柔透气。",
+    "防御+3　身法+4"
+  ],
+  "BitmapId": 198,
+  "Price": 750,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00150_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "2345"
+  }
+}

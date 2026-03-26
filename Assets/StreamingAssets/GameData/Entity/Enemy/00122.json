@@ -1,0 +1,55 @@
+{
+  "Name": "明王",
+  "Health": 12000,
+  "Exp": 4985,
+  "Cash": 0,
+  "Level": 28,
+  "MagicId": 25,
+  "MagicRate": 10,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 13,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 6,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 121,
+    "IdleFrames": 2,
+    "MagicFrames": 2,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 10,
+    "ActWaitFrames": 2,
+    "YPosOffset": 14
+  },
+  "Sound": {
+    "AttackSound": 265,
+    "ActionSound": 0,
+    "MagicSound": 265,
+    "DeathSound": 266,
+    "CallSound": 90
+  },
+  "Script": {
+    "TurnStart": "Enemy_00122_TurnStart",
+    "BattleWon": "Enemy_00122_Won",
+    "Action": "Enemy_00122_Action"
+  }
+}

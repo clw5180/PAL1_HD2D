@@ -1,0 +1,8 @@
+{
+  "Name": "长安_尚书府_刘晋元居所_刘晋元房间_笨天师画符",
+  "MapId": 114,
+  "Script": {
+    "Enter": "Scene_00127_Enter",
+    "Teleport": ""
+  }
+}

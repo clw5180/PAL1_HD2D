@@ -1,0 +1,23 @@
+{
+  "Name": "霓虹羽衣",
+  "Description": [
+    "东海霓虹鸟的羽毛织成的披肩。",
+    "防御+18　身法+18　吉运+18"
+  ],
+  "BitmapId": 229,
+  "Price": 3900,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00169_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "235"
+  }
+}

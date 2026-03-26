@@ -1,0 +1,55 @@
+{
+  "Name": "食人兽",
+  "Health": 2200,
+  "Exp": 380,
+  "Cash": 0,
+  "Level": 40,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 88,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 28,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 55,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 3,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 86,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 3,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 3,
+    "MagicSound": 0,
+    "DeathSound": 184,
+    "CallSound": 94
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

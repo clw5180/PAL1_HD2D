@@ -1,0 +1,11 @@
+{
+  "Name": "木道人",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": 0,
+    "Thunder": 0,
+    "Water": 0,
+    "Fire": 3,
+    "Earth": 0
+  }
+}

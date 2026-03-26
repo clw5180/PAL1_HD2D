@@ -1,0 +1,24 @@
+{
+  "Name": "正常金蟾鬼母",
+  "VanishTime": 0,
+  "X": 528,
+  "Y": 1160,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 19,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00094_00017_Trigger",
+    "Auto": "Event_00002_00020_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

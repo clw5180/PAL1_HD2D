@@ -1,0 +1,8 @@
+{
+  "Name": "忆往昔_拼尽残生为还魂",
+  "MapId": 18,
+  "Script": {
+    "Enter": "Scene_00172_Enter",
+    "Teleport": ""
+  }
+}

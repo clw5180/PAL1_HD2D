@@ -1,0 +1,11 @@
+{
+  "Name": "比武招亲",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": 3,
+    "Thunder": 2,
+    "Water": 0,
+    "Fire": 0,
+    "Earth": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "乞丐",
+  "VanishTime": 0,
+  "X": 816,
+  "Y": 520,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 440,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00101_00025_Trigger",
+    "Auto": "Event_00101_00025_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

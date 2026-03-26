@@ -1,0 +1,23 @@
+{
+  "Name": "竹笛",
+  "Description": [
+    "青竹削制之七孔横笛。",
+    "吉运+18"
+  ],
+  "BitmapId": 128,
+  "Price": 100,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00191_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

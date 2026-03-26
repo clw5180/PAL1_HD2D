@@ -1,0 +1,8 @@
+{
+  "Name": "桃花源_迷宫_前",
+  "MapId": 200,
+  "Script": {
+    "Enter": "",
+    "Teleport": "Scene_00181_Teleport"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "天师符",
+  "Description": [
+    "茅山道士用来对付妖怪的符咒。"
+  ],
+  "BitmapId": 196,
+  "Price": 500,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": "Item_00006_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

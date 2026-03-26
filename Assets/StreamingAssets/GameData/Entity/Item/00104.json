@@ -1,0 +1,23 @@
+{
+  "Name": "九截鞭",
+  "Description": [
+    "以铁节铁环组成的九节软鞭。",
+    "武术+66　身法+33"
+  ],
+  "BitmapId": 18,
+  "Price": 4400,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00104_Equip",
+    "Throw": "Item_00104_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "3"
+  }
+}

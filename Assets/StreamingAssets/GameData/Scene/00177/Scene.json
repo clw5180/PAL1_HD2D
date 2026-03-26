@@ -1,0 +1,8 @@
+{
+  "Name": "圣姑室外",
+  "MapId": 201,
+  "Script": {
+    "Enter": "Scene_00177_Enter",
+    "Teleport": ""
+  }
+}

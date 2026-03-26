@@ -1,0 +1,33 @@
+{
+  "Name": "万蚁蚀象",
+  "Description": [
+    "操纵食人毒蚁攻击敌方单人。"
+  ],
+  "CostMP": 37,
+  "BaseDamage": 350,
+  "SoundId": 82,
+  "Type": 6,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 71,
+    "XOffset": 0,
+    "YOffset": 32,
+    "LayerOffset": 99,
+    "FrameDelay": 5,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

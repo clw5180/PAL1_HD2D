@@ -1,0 +1,24 @@
+{
+  "Name": "雪莲子",
+  "Description": [
+    "白玉雪莲之莲子，其形珠圆玉润，",
+    "服食者真气充盈，经脉通畅。",
+    "MP+400"
+  ],
+  "BitmapId": 143,
+  "Price": 2000,
+  "Script": {
+    "Use": "Item_00048_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

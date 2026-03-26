@@ -1,0 +1,55 @@
+{
+  "Name": "毒神龙",
+  "Health": 6350,
+  "Exp": 3108,
+  "Cash": 0,
+  "Level": 29,
+  "MagicId": 71,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 218,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 6,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 141,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 8
+  },
+  "Sound": {
+    "AttackSound": 236,
+    "ActionSound": 0,
+    "MagicSound": 230,
+    "DeathSound": 179,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "Enemy_00142_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

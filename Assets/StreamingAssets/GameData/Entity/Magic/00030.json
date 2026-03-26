@@ -1,0 +1,31 @@
+{
+  "Name": "火术",
+  "Description": [],
+  "CostMP": 3,
+  "BaseDamage": 40,
+  "SoundId": 113,
+  "Type": 4,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 3,
+    "XOffset": 0,
+    "YOffset": 2,
+    "LayerOffset": 1,
+    "FrameDelay": 3,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

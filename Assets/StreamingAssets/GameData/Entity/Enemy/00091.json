@@ -1,0 +1,55 @@
+{
+  "Name": "绿色小蛇",
+  "Health": 100,
+  "Exp": 6,
+  "Cash": 0,
+  "Level": 3,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 57,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 9,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 2
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 8,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 3,
+      "Thunder": 3,
+      "Water": 3,
+      "Fire": 3,
+      "Earth": 3
+    }
+  },
+  "Effect": {
+    "EffectId": 90,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 4,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 487,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 184,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

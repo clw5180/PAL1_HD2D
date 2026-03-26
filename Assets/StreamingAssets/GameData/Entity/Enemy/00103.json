@@ -1,0 +1,55 @@
+{
+  "Name": "金蟾鬼母",
+  "Health": 2000,
+  "Exp": 760,
+  "Cash": 0,
+  "Level": 14,
+  "MagicId": 12,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 65,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": -40,
+    "MagicStrength": -50,
+    "Defense": 0,
+    "Dexterity": 24,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 5,
+    "Sorcery": 4,
+    "Elemental": {
+      "Wind": 7,
+      "Thunder": 7,
+      "Water": 7,
+      "Fire": 7,
+      "Earth": 7
+    }
+  },
+  "Effect": {
+    "EffectId": 101,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 3,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 270,
+    "ActionSound": 0,
+    "MagicSound": 270,
+    "DeathSound": 269,
+    "CallSound": 94
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": "Enemy_00103_Action"
+  }
+}

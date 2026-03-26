@@ -1,0 +1,24 @@
+{
+  "Name": "风灵珠",
+  "Description": [
+    "女娲降伏风神后，禁制风神于内",
+    "的宝珠。  合体法术：风卷残云",
+    "避风率+50%"
+  ],
+  "BitmapId": 7,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00203_Use",
+    "Equip": "Item_00203_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": "1235"
+  }
+}

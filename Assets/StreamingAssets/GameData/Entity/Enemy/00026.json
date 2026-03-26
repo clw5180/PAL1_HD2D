@@ -1,0 +1,55 @@
+{
+  "Name": "树根",
+  "Health": 640,
+  "Exp": 160,
+  "Cash": 0,
+  "Level": 30,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 69,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 6,
+    "Dexterity": -8,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 4,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 3,
+      "Thunder": 6,
+      "Water": 10,
+      "Fire": 4,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 26,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 380,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 30,
+    "CallSound": 382
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "蜀山_前山",
+  "MapId": 132,
+  "Script": {
+    "Enter": "Scene_00156_Enter",
+    "Teleport": ""
+  }
+}

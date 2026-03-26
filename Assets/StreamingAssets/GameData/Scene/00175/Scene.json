@@ -1,0 +1,8 @@
+{
+  "Name": "圣姑家_李逍遥醒来",
+  "MapId": 202,
+  "Script": {
+    "Enter": "Scene_00175_Enter",
+    "Teleport": ""
+  }
+}

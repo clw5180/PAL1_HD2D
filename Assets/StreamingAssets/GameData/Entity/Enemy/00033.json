@@ -1,0 +1,55 @@
+{
+  "Name": "短腿章鱼",
+  "Health": 1065,
+  "Exp": 220,
+  "Cash": 0,
+  "Level": 34,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 87,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 1,
+    "Poison": 3,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 9,
+      "Thunder": 9,
+      "Water": 9,
+      "Fire": 10,
+      "Earth": 9
+    }
+  },
+  "Effect": {
+    "EffectId": 33,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 7,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 391,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 186,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

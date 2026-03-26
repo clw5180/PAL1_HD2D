@@ -1,0 +1,55 @@
+{
+  "Name": "酒瓮",
+  "Health": 31,
+  "Exp": 5,
+  "Cash": 0,
+  "Level": 2,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 26,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": -1,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": -24,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 5,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 9,
+      "Thunder": 2,
+      "Water": 8,
+      "Fire": 8,
+      "Earth": 1
+    }
+  },
+  "Effect": {
+    "EffectId": 18,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 370,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 32,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

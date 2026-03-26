@@ -1,0 +1,55 @@
+{
+  "Name": "食火蟾",
+  "Health": 290,
+  "Exp": 60,
+  "Cash": 0,
+  "Level": 12,
+  "MagicId": 32,
+  "MagicRate": 10,
+  "AttackEquivItemId": 59,
+  "AttackEquivItemRate": 3,
+  "StealItemId": 83,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": -18,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 3,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 0,
+      "Water": 5,
+      "Fire": 10,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 120,
+    "IdleFrames": 5,
+    "MagicFrames": 3,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 4,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 75,
+    "ActionSound": 0,
+    "MagicSound": 75,
+    "DeathSound": 182,
+    "CallSound": 90
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": "Enemy_00121_Action"
+  }
+}

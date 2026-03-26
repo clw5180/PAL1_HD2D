@@ -1,0 +1,23 @@
+{
+  "Name": "鬼针胄",
+  "Description": [
+    "长满倒刺的铜制盔甲",
+    "防御+55　武术+9"
+  ],
+  "BitmapId": 93,
+  "Price": 14800,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00159_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

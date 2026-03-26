@@ -1,0 +1,55 @@
+{
+  "Name": "赤蜈蚣",
+  "Health": 280,
+  "Exp": 27,
+  "Cash": 0,
+  "Level": 11,
+  "MagicId": 70,
+  "MagicRate": 3,
+  "AttackEquivItemId": 70,
+  "AttackEquivItemRate": 6,
+  "StealItemId": 61,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 6,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 3,
+      "Thunder": 3,
+      "Water": 6,
+      "Fire": 3,
+      "Earth": 3
+    }
+  },
+  "Effect": {
+    "EffectId": 118,
+    "IdleFrames": 2,
+    "MagicFrames": 2,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 6,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 246,
+    "ActionSound": 0,
+    "MagicSound": 246,
+    "DeathSound": 183,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

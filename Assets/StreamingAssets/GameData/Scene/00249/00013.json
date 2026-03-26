@@ -1,0 +1,24 @@
+{
+  "Name": "南绍兵1",
+  "VanishTime": 0,
+  "X": 1072,
+  "Y": 872,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 545,
+    "SpriteFrames": 3,
+    "Direction": 3,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

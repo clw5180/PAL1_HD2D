@@ -1,0 +1,34 @@
+{
+  "Name": "五雷咒",
+  "Description": [
+    "雷系中级法术，",
+    "攻击敌方全体。"
+  ],
+  "CostMP": 15,
+  "BaseDamage": 110,
+  "SoundId": 325,
+  "Type": 2,
+  "ActionType": 1,
+  "Effect": {
+    "EffectId": 6,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": 2,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

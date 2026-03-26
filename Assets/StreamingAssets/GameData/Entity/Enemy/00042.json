@@ -1,0 +1,55 @@
+{
+  "Name": "连体妖",
+  "Health": 400,
+  "Exp": 20,
+  "Cash": 0,
+  "Level": 12,
+  "MagicId": 12,
+  "MagicRate": 8,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 83,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 7,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 3,
+      "Fire": 4,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 42,
+    "IdleFrames": 4,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 4,
+    "ActWaitFrames": 3,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": -404,
+    "DeathSound": 216,
+    "CallSound": 93
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

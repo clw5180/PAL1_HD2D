@@ -1,0 +1,55 @@
+{
+  "Name": "菜刀婆婆",
+  "Health": 860,
+  "Exp": 36,
+  "Cash": 0,
+  "Level": 8,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 107,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 48,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": -32,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 3,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 0,
+      "Water": 4,
+      "Fire": 7,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 12,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 360,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 182,
+    "CallSound": 94
+  },
+  "Script": {
+    "TurnStart": "Enemy_00012_TurnStart",
+    "BattleWon": "Enemy_00012_Won",
+    "Action": "Enemy_00012_Action"
+  }
+}

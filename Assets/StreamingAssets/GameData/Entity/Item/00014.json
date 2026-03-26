@@ -1,0 +1,23 @@
+{
+  "Name": "银杏子",
+  "Description": [
+    "银杏树所结的白色核果。",
+    "最大体力值+3"
+  ],
+  "BitmapId": 40,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00014_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

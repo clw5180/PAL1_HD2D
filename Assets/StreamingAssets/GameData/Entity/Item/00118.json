@@ -1,0 +1,23 @@
+{
+  "Name": "青锋剑",
+  "Description": [
+    "名家精心打造的剑，轻薄锋利。",
+    "武术+75　身法+15"
+  ],
+  "BitmapId": 58,
+  "Price": 5100,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00118_Equip",
+    "Throw": "Item_00118_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "13"
+  }
+}

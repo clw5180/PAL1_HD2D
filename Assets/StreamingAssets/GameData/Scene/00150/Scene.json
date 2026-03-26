@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔_五层_崩溃",
+  "MapId": 144,
+  "Script": {
+    "Enter": "Scene_00150_Enter",
+    "Teleport": ""
+  }
+}

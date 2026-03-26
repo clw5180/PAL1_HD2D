@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦_余杭_山神庙_外",
+  "MapId": 184,
+  "Script": {
+    "Enter": "Scene_00248_Enter",
+    "Teleport": ""
+  }
+}

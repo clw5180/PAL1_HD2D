@@ -1,0 +1,55 @@
+{
+  "Name": "智修大师",
+  "Health": 1050,
+  "Exp": 180,
+  "Cash": 0,
+  "Level": 6,
+  "MagicId": 82,
+  "MagicRate": 10,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 12,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": -30,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 6,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 126,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 8,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 244,
+    "ActionSound": 0,
+    "MagicSound": 244,
+    "DeathSound": 190,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "Enemy_00127_Won",
+    "Action": "Enemy_00127_Action"
+  }
+}

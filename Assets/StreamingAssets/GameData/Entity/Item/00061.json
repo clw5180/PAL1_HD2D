@@ -1,0 +1,23 @@
+{
+  "Name": "蜈蚣卵",
+  "Description": [
+    "炼蛊的材料。",
+    "毒性：赤毒"
+  ],
+  "BitmapId": 203,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00057_Use",
+    "Equip": "",
+    "Throw": "Item_00057_Throw"
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

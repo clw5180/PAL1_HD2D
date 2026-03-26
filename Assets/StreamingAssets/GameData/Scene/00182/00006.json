@@ -1,0 +1,24 @@
+{
+  "Name": "挎包书生",
+  "VanishTime": 0,
+  "X": 832,
+  "Y": 1728,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 83,
+    "SpriteFrames": 3,
+    "Direction": 1,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "Event_00182_00006_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

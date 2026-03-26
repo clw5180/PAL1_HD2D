@@ -1,0 +1,8 @@
+{
+  "Name": "路_试炼窟外_战",
+  "MapId": 204,
+  "Script": {
+    "Enter": "",
+    "Teleport": "Scene_00250_Teleport"
+  }
+}

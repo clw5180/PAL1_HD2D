@@ -1,0 +1,8 @@
+{
+  "Name": "恍惚_林月如",
+  "MapId": 202,
+  "Script": {
+    "Enter": "Scene_00173_Enter",
+    "Teleport": ""
+  }
+}

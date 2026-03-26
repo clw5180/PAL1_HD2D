@@ -1,0 +1,31 @@
+{
+  "Name": "灭绝一击",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 185,
+  "SoundId": 151,
+  "Type": 5,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 78,
+    "XOffset": -10,
+    "YOffset": 24,
+    "LayerOffset": -23,
+    "FrameDelay": 1,
+    "KeepEffect": -1,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

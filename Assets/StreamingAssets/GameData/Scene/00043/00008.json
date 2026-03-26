@@ -1,0 +1,24 @@
+{
+  "Name": "蛇妖众",
+  "VanishTime": 0,
+  "X": 832,
+  "Y": 1072,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 472,
+    "SpriteFrames": 2,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00043_00008_Trigger",
+    "Auto": "Event_00041_00003_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

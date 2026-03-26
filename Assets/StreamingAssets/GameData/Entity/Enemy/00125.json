@@ -1,0 +1,55 @@
+{
+  "Name": "黑巫师",
+  "Health": 2400,
+  "Exp": 680,
+  "Cash": 0,
+  "Level": 46,
+  "MagicId": 11,
+  "MagicRate": 5,
+  "AttackEquivItemId": 25,
+  "AttackEquivItemRate": 5,
+  "StealItemId": 63,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 5,
+    "Sorcery": 2,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 6,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 124,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 6,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 244,
+    "ActionSound": 0,
+    "MagicSound": 244,
+    "DeathSound": 185,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": "Enemy_00125_Action"
+  }
+}

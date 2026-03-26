@@ -1,0 +1,24 @@
+{
+  "Name": "龙纹披风",
+  "Description": [
+    "布面绣双龙抢珠之彩纹，",
+    "有神龙护体之功效。",
+    "防御+60"
+  ],
+  "BitmapId": 86,
+  "Price": 16000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00173_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "12"
+  }
+}

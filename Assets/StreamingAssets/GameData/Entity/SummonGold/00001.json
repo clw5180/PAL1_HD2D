@@ -1,0 +1,32 @@
+{
+  "Name": "风神",
+  "Description": [
+    "召唤风神，最强的风系法术。"
+  ],
+  "CostMP": 64,
+  "BaseDamage": 450,
+  "SoundId": 349,
+  "Type": 1,
+  "Effect": {
+    "SpriteId": 4,
+    "EffectId": 21,
+    "XOffset": -16,
+    "YOffset": 16,
+    "IdleFrames": 0,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "ColorShift": -1,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": "SummonGold_00001_Use"
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

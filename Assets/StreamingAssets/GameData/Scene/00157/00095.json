@@ -1,0 +1,24 @@
+{
+  "Name": "血池泡",
+  "VanishTime": 0,
+  "X": 928,
+  "Y": 144,
+  "Layer": -5,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 272,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 20
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "Event_00023_00011_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

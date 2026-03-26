@@ -1,0 +1,24 @@
+{
+  "Name": "原地阿奴",
+  "VanishTime": 0,
+  "X": 736,
+  "Y": 624,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 399,
+    "SpriteFrames": 1,
+    "Direction": 2,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

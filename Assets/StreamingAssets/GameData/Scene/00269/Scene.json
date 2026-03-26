@@ -1,0 +1,8 @@
+{
+  "Name": "大理_各分立屋宇_空_逃难_未知",
+  "MapId": 19,
+  "Script": {
+    "Enter": "Scene_00269_Enter",
+    "Teleport": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "盖罗娇1",
+  "Health": 7000,
+  "Exp": 4500,
+  "Cash": 0,
+  "Level": 40,
+  "MagicId": 75,
+  "MagicRate": 7,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 62,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 11,
+    "MagicStrength": 22,
+    "Defense": -30,
+    "Dexterity": 50,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 5,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 102,
+    "IdleFrames": 1,
+    "MagicFrames": 3,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 11,
+    "ActionSound": 0,
+    "MagicSound": 11,
+    "DeathSound": 25,
+    "CallSound": 94
+  },
+  "Script": {
+    "TurnStart": "Enemy_00104_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

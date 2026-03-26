@@ -1,0 +1,23 @@
+{
+  "Name": "无影毒",
+  "Description": [
+    "七大毒蛊，中毒后立即发作，",
+    "耗损一半体力。"
+  ],
+  "BitmapId": 173,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00077_Use",
+    "Equip": "",
+    "Throw": "Item_00077_Throw"
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "紫金冠",
+  "Description": [
+    "紫金冠以薄铜片铸成，",
+    "外壳以紫饰金而成。",
+    "防御+18"
+  ],
+  "BitmapId": 181,
+  "Price": 5600,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00144_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "糯米糕",
+  "Description": [
+    "糯米加麦芽、甜豆所煮的米糕，",
+    "可解尸毒。",
+    "HP+25"
+  ],
+  "BitmapId": 35,
+  "Price": 100,
+  "Script": {
+    "Use": "Item_00016_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

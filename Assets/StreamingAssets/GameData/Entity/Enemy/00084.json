@@ -1,0 +1,55 @@
+{
+  "Name": "暗器手",
+  "Health": 500,
+  "Exp": 22,
+  "Cash": 0,
+  "Level": 3,
+  "MagicId": 46,
+  "MagicRate": 10,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 93,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 4,
+    "MagicStrength": 10,
+    "Defense": 4,
+    "Dexterity": 4,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 1,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 83,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 4,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": -478,
+    "DeathSound": 242,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

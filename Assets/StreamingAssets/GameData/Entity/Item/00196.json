@@ -1,0 +1,23 @@
+{
+  "Name": "铜镜",
+  "Description": [
+    "青铜铸造的照容用具。",
+    "防御+6"
+  ],
+  "BitmapId": 24,
+  "Price": 800,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00196_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "235"
+  }
+}

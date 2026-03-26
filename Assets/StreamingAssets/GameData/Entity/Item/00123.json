@@ -1,0 +1,24 @@
+{
+  "Name": "金童剑",
+  "Description": [
+    "鸳鸯双剑中的雄剑，与玉女剑",
+    "为一对。  武术+100　吉运+30",
+    "身法+20  灵力+15　 防御+3"
+  ],
+  "BitmapId": 54,
+  "Price": 12000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00123_Equip",
+    "Throw": "Item_00123_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

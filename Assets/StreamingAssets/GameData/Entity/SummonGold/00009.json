@@ -1,0 +1,32 @@
+{
+  "Name": "火神",
+  "Description": [
+    "召唤火神，最强的火系法术。"
+  ],
+  "CostMP": 65,
+  "BaseDamage": 452,
+  "SoundId": 302,
+  "Type": 4,
+  "Effect": {
+    "SpriteId": 8,
+    "EffectId": 34,
+    "XOffset": 0,
+    "YOffset": 0,
+    "IdleFrames": 0,
+    "MagicFrames": 6,
+    "AttackFrames": 1,
+    "ColorShift": 5,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

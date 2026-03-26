@@ -1,0 +1,24 @@
+{
+  "Name": "水灵珠",
+  "Description": [
+    "女娲降伏雪妖后，禁制雪妖于内",
+    "的宝珠。  合体法术：风雪冰天",
+    "避水率+50%"
+  ],
+  "BitmapId": 1,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00205_Use",
+    "Equip": "Item_00205_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": "1235"
+  }
+}

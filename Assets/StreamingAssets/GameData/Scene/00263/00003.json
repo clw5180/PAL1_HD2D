@@ -1,0 +1,24 @@
+{
+  "Name": "石长老",
+  "VanishTime": 0,
+  "X": 1440,
+  "Y": 1520,
+  "Layer": -1,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 351,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00263_00003_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "猩猩",
+  "Health": 800,
+  "Exp": 98,
+  "Cash": 0,
+  "Level": 27,
+  "MagicId": 36,
+  "MagicRate": 3,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 32,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 33,
+    "Defense": 30,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 3,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 3,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 59,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 3,
+    "YPosOffset": 8
+  },
+  "Sound": {
+    "AttackSound": 432,
+    "ActionSound": 0,
+    "MagicSound": -433,
+    "DeathSound": 233,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

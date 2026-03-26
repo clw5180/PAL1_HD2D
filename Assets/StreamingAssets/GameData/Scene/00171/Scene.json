@@ -1,0 +1,8 @@
+{
+  "Name": "忆往昔_灵池未料此般逢",
+  "MapId": 119,
+  "Script": {
+    "Enter": "Scene_00171_Enter",
+    "Teleport": ""
+  }
+}

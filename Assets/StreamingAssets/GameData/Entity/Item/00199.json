@@ -1,0 +1,23 @@
+{
+  "Name": "豹牙手环",
+  "Description": [
+    "收集花豹的利牙串成的手环。",
+    "防御+9"
+  ],
+  "BitmapId": 25,
+  "Price": 4400,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00199_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "12345"
+  }
+}

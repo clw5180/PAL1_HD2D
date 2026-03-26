@@ -1,0 +1,23 @@
+{
+  "Name": "青铜甲",
+  "Description": [
+    "青铜制的兽面纹胸护甲。",
+    "防御+22　身法-13"
+  ],
+  "BitmapId": 225,
+  "Price": 3200,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00153_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

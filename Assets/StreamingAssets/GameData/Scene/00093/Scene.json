@@ -1,0 +1,8 @@
+{
+  "Name": "井底密道_飞贼密室",
+  "MapId": 85,
+  "Script": {
+    "Enter": "Scene_00093_Enter",
+    "Teleport": ""
+  }
+}

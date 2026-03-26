@@ -1,0 +1,8 @@
+{
+  "Name": "忆往昔_忧逍遥月如离堡",
+  "MapId": 33,
+  "Script": {
+    "Enter": "Scene_00196_Enter",
+    "Teleport": ""
+  }
+}

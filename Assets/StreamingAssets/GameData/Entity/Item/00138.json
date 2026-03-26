@@ -1,0 +1,23 @@
+{
+  "Name": "发饰",
+  "Description": [
+    "锡制的女子头饰。",
+    "防御+3"
+  ],
+  "BitmapId": 177,
+  "Price": 60,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00138_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "235"
+  }
+}

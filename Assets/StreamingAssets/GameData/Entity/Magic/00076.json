@@ -1,0 +1,33 @@
+{
+  "Name": "飞龙探云手",
+  "Description": [
+    "偷取敌人的物品或金钱。"
+  ],
+  "CostMP": 9,
+  "BaseDamage": -999,
+  "SoundId": 0,
+  "Type": 0,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 98,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 0,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "Magic_00076_Success",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

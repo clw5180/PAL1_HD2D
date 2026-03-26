@@ -1,0 +1,8 @@
+{
+  "Name": "鬼阴山_迷宫_3",
+  "MapId": 65,
+  "Script": {
+    "Enter": "Scene_00071_Enter",
+    "Teleport": "Scene_00073_Teleport"
+  }
+}

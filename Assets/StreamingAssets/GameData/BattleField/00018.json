@@ -1,0 +1,11 @@
+{
+  "Name": "阴森所在",
+  "ScreenWave": 2,
+  "ElementalEffect": {
+    "Wind": -6,
+    "Thunder": 4,
+    "Water": 2,
+    "Fire": -10,
+    "Earth": -2
+  }
+}

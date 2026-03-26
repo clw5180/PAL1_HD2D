@@ -1,0 +1,24 @@
+{
+  "Name": "红缨刀",
+  "Description": [
+    "精钢打造，背厚刃薄，",
+    "刀柄饰以红色长穗。",
+    "武术+38"
+  ],
+  "BitmapId": 52,
+  "Price": 1950,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00112_Equip",
+    "Throw": "Item_00112_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "13"
+  }
+}

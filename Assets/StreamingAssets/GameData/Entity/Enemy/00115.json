@@ -1,0 +1,55 @@
+{
+  "Name": "黑衣道众",
+  "Health": 1400,
+  "Exp": 350,
+  "Cash": 0,
+  "Level": 30,
+  "MagicId": 20,
+  "MagicRate": 7,
+  "AttackEquivItemId": 25,
+  "AttackEquivItemRate": 3,
+  "StealItemId": 7,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 0,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 0
+    }
+  },
+  "Effect": {
+    "EffectId": 113,
+    "IdleFrames": 1,
+    "MagicFrames": 8,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 88,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 241,
+    "ActionSound": 0,
+    "MagicSound": 241,
+    "DeathSound": 191,
+    "CallSound": 90
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

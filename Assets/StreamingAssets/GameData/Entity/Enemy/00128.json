@@ -1,0 +1,55 @@
+{
+  "Name": "林天南",
+  "Health": 10000,
+  "Exp": 2500,
+  "Cash": 0,
+  "Level": 18,
+  "MagicId": 57,
+  "MagicRate": 10,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 124,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": -10,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 127,
+    "IdleFrames": 1,
+    "MagicFrames": 3,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 1,
+    "YPosOffset": 16
+  },
+  "Sound": {
+    "AttackSound": 265,
+    "ActionSound": 0,
+    "MagicSound": 265,
+    "DeathSound": 0,
+    "CallSound": 94
+  },
+  "Script": {
+    "TurnStart": "Enemy_00128_TurnStart",
+    "BattleWon": "",
+    "Action": "Enemy_00128_Action"
+  }
+}

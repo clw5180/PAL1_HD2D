@@ -1,0 +1,23 @@
+{
+  "Name": "迷魂香",
+  "Description": [
+    "点燃蒙汗药散发迷香，",
+    "可使敌人昏睡五回合。"
+  ],
+  "BitmapId": 167,
+  "Price": 1300,
+  "Script": {
+    "Use": "Item_00075_Use",
+    "Equip": "",
+    "Throw": "Item_00075_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

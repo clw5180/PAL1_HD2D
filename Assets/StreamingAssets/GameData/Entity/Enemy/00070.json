@@ -1,0 +1,55 @@
+{
+  "Name": "瘟神",
+  "Health": 5280,
+  "Exp": 1005,
+  "Cash": 0,
+  "Level": 43,
+  "MagicId": 72,
+  "MagicRate": 6,
+  "AttackEquivItemId": 99,
+  "AttackEquivItemRate": 5,
+  "StealItemId": 62,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 10,
+    "Sorcery": 4,
+    "Elemental": {
+      "Wind": 3,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 0,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 70,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 1,
+    "ActWaitFrames": 2,
+    "YPosOffset": 28
+  },
+  "Sound": {
+    "AttackSound": 453,
+    "ActionSound": 0,
+    "MagicSound": -455,
+    "DeathSound": 233,
+    "CallSound": 93
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

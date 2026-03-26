@@ -1,0 +1,23 @@
+{
+  "Name": "金罡珠",
+  "Description": [
+    "大罗金仙修炼千年的内丹。",
+    "防御+90"
+  ],
+  "BitmapId": 13,
+  "Price": 10000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00201_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

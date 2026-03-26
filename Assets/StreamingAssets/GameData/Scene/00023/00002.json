@@ -1,0 +1,24 @@
+{
+  "Name": "骑木马小孩",
+  "VanishTime": 0,
+  "X": 688,
+  "Y": 1240,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 79,
+    "SpriteFrames": 4,
+    "Direction": 3,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00023_00002_Trigger",
+    "Auto": "Event_00023_00002_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

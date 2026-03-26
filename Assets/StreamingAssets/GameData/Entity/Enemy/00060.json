@@ -1,0 +1,55 @@
+{
+  "Name": "双节棍苗",
+  "Health": 2760,
+  "Exp": 450,
+  "Cash": 0,
+  "Level": 40,
+  "MagicId": 78,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 20,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 4,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 2,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 60,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 2,
+    "ActWaitFrames": 2,
+    "YPosOffset": 12
+  },
+  "Sound": {
+    "AttackSound": 434,
+    "ActionSound": 0,
+    "MagicSound": -435,
+    "DeathSound": 266,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

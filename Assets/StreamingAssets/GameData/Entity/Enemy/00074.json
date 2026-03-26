@@ -1,0 +1,55 @@
+{
+  "Name": "玩蛇女",
+  "Health": 6000,
+  "Exp": 1160,
+  "Cash": 0,
+  "Level": 46,
+  "MagicId": 29,
+  "MagicRate": 6,
+  "AttackEquivItemId": 99,
+  "AttackEquivItemRate": 5,
+  "StealItemId": 64,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 4,
+    "Sorcery": 4,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 2,
+      "Water": 9,
+      "Fire": 4,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 74,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 20
+  },
+  "Sound": {
+    "AttackSound": 464,
+    "ActionSound": 0,
+    "MagicSound": -465,
+    "DeathSound": 269,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

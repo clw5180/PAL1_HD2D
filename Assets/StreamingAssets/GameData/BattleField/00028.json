@@ -1,0 +1,11 @@
+{
+  "Name": "尚书府",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": -2,
+    "Thunder": -1,
+    "Water": 0,
+    "Fire": 1,
+    "Earth": 0
+  }
+}

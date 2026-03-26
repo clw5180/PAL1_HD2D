@@ -1,0 +1,23 @@
+{
+  "Name": "朱雀战衣",
+  "Description": [
+    "以南方火鸟的羽毛编织而成。",
+    "防御+80"
+  ],
+  "BitmapId": 228,
+  "Price": 24000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00164_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "5"
+  }
+}

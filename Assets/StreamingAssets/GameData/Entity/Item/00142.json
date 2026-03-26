@@ -1,0 +1,23 @@
+{
+  "Name": "珍珠冠",
+  "Description": [
+    "以珍珠缝缀的红色锦冠。",
+    "防御+13"
+  ],
+  "BitmapId": 182,
+  "Price": 2700,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00142_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "45"
+  }
+}

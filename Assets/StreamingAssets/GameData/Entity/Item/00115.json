@@ -1,0 +1,24 @@
+{
+  "Name": "玄铁剑",
+  "Description": [
+    "以珍贵的黑色铁矿打造而成，",
+    "坚韧锋利但极笨重。武术+70",
+    "身法-20  灵力-15  防御+9"
+  ],
+  "BitmapId": 88,
+  "Price": 4800,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00115_Equip",
+    "Throw": "Item_00115_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

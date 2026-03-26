@@ -1,0 +1,23 @@
+{
+  "Name": "护心镜",
+  "Description": [
+    "防护前胸要害的披甲，形如",
+    "铜镜。  防御+20"
+  ],
+  "BitmapId": 94,
+  "Price": 2000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00168_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

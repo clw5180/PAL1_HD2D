@@ -1,0 +1,24 @@
+{
+  "Name": "天蛇杖",
+  "Description": [
+    "女神娲皇炼化五色石所用法杖。",
+    "武术+100　灵力+150　防御+33",
+    "吉运+36"
+  ],
+  "BitmapId": 68,
+  "Price": 31000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00135_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "24"
+  }
+}

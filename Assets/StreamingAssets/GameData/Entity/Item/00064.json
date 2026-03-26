@@ -1,0 +1,24 @@
+{
+  "Name": "血海棠",
+  "Description": [
+    "七大毒蛊，中毒后每回合损血，",
+    "至死方休。",
+    "解药：断肠草  致命药引：三尸蛊"
+  ],
+  "BitmapId": 162,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00064_Use",
+    "Equip": "",
+    "Throw": "Item_00064_Throw"
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

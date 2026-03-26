@@ -1,0 +1,24 @@
+{
+  "Name": "跪灵儿",
+  "VanishTime": 0,
+  "X": 1136,
+  "Y": 1240,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 222,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 1
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

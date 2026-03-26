@@ -1,0 +1,24 @@
+{
+  "Name": "蛤蟆",
+  "VanishTime": 0,
+  "X": 1600,
+  "Y": 1312,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 591,
+    "SpriteFrames": 4,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00102_00013_Trigger",
+    "Auto": "Event_00102_00008_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

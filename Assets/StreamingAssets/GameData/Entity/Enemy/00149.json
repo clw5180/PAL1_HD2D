@@ -1,0 +1,55 @@
+{
+  "Name": "拜月教主",
+  "Health": 22220,
+  "Exp": 30000,
+  "Cash": 0,
+  "Level": 50,
+  "MagicId": 81,
+  "MagicRate": 5,
+  "AttackEquivItemId": 25,
+  "AttackEquivItemRate": 3,
+  "StealItemId": 63,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 35,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 4,
+    "Poison": 5,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 6,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 149,
+    "IdleFrames": 1,
+    "MagicFrames": 5,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 10
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 190,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "Enemy_00149_TurnStart",
+    "BattleWon": "",
+    "Action": "Enemy_00149_Action"
+  }
+}

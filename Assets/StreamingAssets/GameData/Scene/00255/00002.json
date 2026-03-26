@@ -1,0 +1,24 @@
+{
+  "Name": "苗人刀",
+  "VanishTime": 0,
+  "X": 1728,
+  "Y": 1696,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 611,
+    "SpriteFrames": 1,
+    "Direction": 2,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00255_00002_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

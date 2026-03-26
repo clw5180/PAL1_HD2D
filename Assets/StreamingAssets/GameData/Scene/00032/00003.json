@@ -1,0 +1,24 @@
+{
+  "Name": "水生叔",
+  "VanishTime": 0,
+  "X": 848,
+  "Y": 648,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 14,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00032_00003_Trigger",
+    "Auto": "Event_00002_00020_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

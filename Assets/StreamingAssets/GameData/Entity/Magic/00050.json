@@ -1,0 +1,31 @@
+{
+  "Name": "心剑合一",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 0,
+  "SoundId": 0,
+  "Type": 0,
+  "ActionType": 2,
+  "Effect": {
+    "EffectId": 20,
+    "XOffset": 27,
+    "YOffset": 60,
+    "LayerOffset": 99,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

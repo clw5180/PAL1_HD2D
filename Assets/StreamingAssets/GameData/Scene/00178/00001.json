@@ -1,0 +1,24 @@
+{
+  "Name": "圣姑",
+  "VanishTime": 0,
+  "X": 1472,
+  "Y": 688,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 609,
+    "SpriteFrames": 3,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "Event_00178_00001_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

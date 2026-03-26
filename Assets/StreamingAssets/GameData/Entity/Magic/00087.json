@@ -1,0 +1,31 @@
+{
+  "Name": "剑气斩",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 70,
+  "SoundId": 151,
+  "Type": 5,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 93,
+    "XOffset": -6,
+    "YOffset": 27,
+    "LayerOffset": -26,
+    "FrameDelay": 1,
+    "KeepEffect": -1,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

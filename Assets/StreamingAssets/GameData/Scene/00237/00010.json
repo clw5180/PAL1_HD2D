@@ -1,0 +1,24 @@
+{
+  "Name": "汉人头颅",
+  "VanishTime": 0,
+  "X": 800,
+  "Y": 1296,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 577,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 2
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

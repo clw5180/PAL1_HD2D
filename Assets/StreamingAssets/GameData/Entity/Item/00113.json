@@ -1,0 +1,23 @@
+{
+  "Name": "越女剑",
+  "Description": [
+    "剑身宽仅两指，专为女子打造。",
+    "武术+22　身法+8"
+  ],
+  "BitmapId": 184,
+  "Price": 1000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00113_Equip",
+    "Throw": "Item_00113_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "23"
+  }
+}

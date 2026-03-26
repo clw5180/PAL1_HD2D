@@ -1,0 +1,31 @@
+{
+  "Name": "气功",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 220,
+  "SoundId": 129,
+  "Type": 0,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 87,
+    "XOffset": -10,
+    "YOffset": 24,
+    "LayerOffset": 99,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "赤鬼王",
+  "Health": 5500,
+  "Exp": 950,
+  "Cash": 0,
+  "Level": 11,
+  "MagicId": 59,
+  "MagicRate": 6,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 102,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 8,
+    "Sorcery": 5,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 6,
+      "Water": 3,
+      "Fire": 7,
+      "Earth": 10
+    }
+  },
+  "Effect": {
+    "EffectId": 76,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 22
+  },
+  "Sound": {
+    "AttackSound": 470,
+    "ActionSound": 0,
+    "MagicSound": 470,
+    "DeathSound": 266,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": "Enemy_00076_Action"
+  }
+}

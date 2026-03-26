@@ -1,0 +1,8 @@
+{
+  "Name": "梦之床_逍遥躺地",
+  "MapId": 20,
+  "Script": {
+    "Enter": "Scene_00001_Enter",
+    "Teleport": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "烂香菇",
+  "Health": 750,
+  "Exp": 140,
+  "Cash": 0,
+  "Level": 30,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 67,
+  "AttackEquivItemRate": 2,
+  "StealItemId": 47,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 7,
+    "Dexterity": -8,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 8,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 7,
+      "Thunder": 5,
+      "Water": 9,
+      "Fire": 0,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 4,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 504,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 246,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "Enemy_00004_Won",
+    "Action": ""
+  }
+}

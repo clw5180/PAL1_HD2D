@@ -1,0 +1,55 @@
+{
+  "Name": "凤凰",
+  "Health": 3000,
+  "Exp": 5290,
+  "Cash": 0,
+  "Level": 33,
+  "MagicId": 60,
+  "MagicRate": 5,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 146,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 4,
+    "Sorcery": 4,
+    "Elemental": {
+      "Wind": 9,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 4,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 67,
+    "IdleFrames": 4,
+    "MagicFrames": 0,
+    "AttackFrames": 3,
+    "IdleAnimSpeed": 3,
+    "ActWaitFrames": 2,
+    "YPosOffset": 16
+  },
+  "Sound": {
+    "AttackSound": 447,
+    "ActionSound": 0,
+    "MagicSound": -449,
+    "DeathSound": 183,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

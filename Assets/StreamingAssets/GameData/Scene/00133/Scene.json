@@ -1,0 +1,8 @@
+{
+  "Name": "长安_妓院_各房间",
+  "MapId": 121,
+  "Script": {
+    "Enter": "Scene_00133_Enter",
+    "Teleport": ""
+  }
+}

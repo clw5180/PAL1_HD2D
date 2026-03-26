@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦_余杭_十里坡",
+  "MapId": 188,
+  "Script": {
+    "Enter": "Scene_00251_Enter",
+    "Teleport": ""
+  }
+}

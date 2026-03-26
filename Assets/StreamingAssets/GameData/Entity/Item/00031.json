@@ -1,0 +1,23 @@
+{
+  "Name": "十里香",
+  "Description": [
+    "以生血、内脏、肉桂..等炼制，",
+    "点燃后散发出吸引魔物的香味。"
+  ],
+  "BitmapId": 47,
+  "Price": 640,
+  "Script": {
+    "Use": "Item_00031_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

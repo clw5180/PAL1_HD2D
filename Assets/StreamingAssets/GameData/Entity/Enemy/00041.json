@@ -1,0 +1,55 @@
+{
+  "Name": "魔兽武士",
+  "Health": 4000,
+  "Exp": 1010,
+  "Cash": 0,
+  "Level": 44,
+  "MagicId": 79,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 114,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 20,
+    "MagicStrength": 0,
+    "Defense": 30,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 4,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 4,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 41,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 1,
+    "YPosOffset": 14
+  },
+  "Sound": {
+    "AttackSound": 403,
+    "ActionSound": 0,
+    "MagicSound": 402,
+    "DeathSound": 266,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

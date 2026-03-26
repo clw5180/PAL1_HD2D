@@ -1,0 +1,23 @@
+{
+  "Name": "铁鳞甲",
+  "Description": [
+    "以鱼鳞形甲片编缀而成的铠甲。",
+    "防御+28　身法-4"
+  ],
+  "BitmapId": 79,
+  "Price": 6500,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00155_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

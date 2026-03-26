@@ -1,0 +1,24 @@
+{
+  "Name": "右门板1",
+  "VanishTime": 0,
+  "X": 1360,
+  "Y": 1400,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 523,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 1
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "苏州_外",
+  "MapId": 23,
+  "Script": {
+    "Enter": "Scene_00023_Enter",
+    "Teleport": ""
+  }
+}

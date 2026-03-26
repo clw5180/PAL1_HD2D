@@ -1,0 +1,55 @@
+{
+  "Name": "剑老头",
+  "Health": 2100,
+  "Exp": 2500,
+  "Cash": 0,
+  "Level": 28,
+  "MagicId": 62,
+  "MagicRate": 10,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 6,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 6,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 96,
+    "IdleFrames": 3,
+    "MagicFrames": 2,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 3,
+    "ActWaitFrames": 1,
+    "YPosOffset": 6
+  },
+  "Sound": {
+    "AttackSound": 265,
+    "ActionSound": 0,
+    "MagicSound": 265,
+    "DeathSound": 190,
+    "CallSound": 94
+  },
+  "Script": {
+    "TurnStart": "Enemy_00097_TurnStart",
+    "BattleWon": "Enemy_00097_Won",
+    "Action": ""
+  }
+}

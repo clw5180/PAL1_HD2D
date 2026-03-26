@@ -1,0 +1,24 @@
+{
+  "Name": "姑娘",
+  "VanishTime": 0,
+  "X": 496,
+  "Y": 1208,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 313,
+    "SpriteFrames": 3,
+    "Direction": 2,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00085_00033_Trigger",
+    "Auto": "Event_00085_00033_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "土灵符",
+  "Description": [
+    "产生土系法术的符咒。"
+  ],
+  "BitmapId": 144,
+  "Price": 1800,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": "Item_00011_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

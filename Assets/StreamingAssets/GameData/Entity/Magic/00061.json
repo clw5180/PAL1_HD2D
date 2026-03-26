@@ -1,0 +1,31 @@
+{
+  "Name": "鞭击",
+  "Description": [],
+  "CostMP": 1,
+  "BaseDamage": 40,
+  "SoundId": 3,
+  "Type": 0,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 28,
+    "XOffset": -10,
+    "YOffset": -16,
+    "LayerOffset": -1,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

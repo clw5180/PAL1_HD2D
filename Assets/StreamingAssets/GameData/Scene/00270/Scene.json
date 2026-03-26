@@ -1,0 +1,8 @@
+{
+  "Name": "大理_汉人聚居地_屠杀",
+  "MapId": 4,
+  "Script": {
+    "Enter": "",
+    "Teleport": "Event_00268_00002_Trigger"
+  }
+}

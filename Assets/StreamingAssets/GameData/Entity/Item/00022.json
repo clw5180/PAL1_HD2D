@@ -1,0 +1,22 @@
+{
+  "Name": "符纸",
+  "Description": [
+    "泛黄的空白符纸。"
+  ],
+  "BitmapId": 23,
+  "Price": 8,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

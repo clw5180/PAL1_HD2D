@@ -1,0 +1,34 @@
+{
+  "Name": "冰咒",
+  "Description": [
+    "冰系初级法术，",
+    "攻击敌方单人。"
+  ],
+  "CostMP": 5,
+  "BaseDamage": 45,
+  "SoundId": 109,
+  "Type": 3,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 2,
+    "XOffset": -10,
+    "YOffset": 12,
+    "LayerOffset": 13,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 1,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

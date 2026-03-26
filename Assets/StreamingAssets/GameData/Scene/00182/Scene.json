@@ -1,0 +1,8 @@
+{
+  "Name": "桃花源_决战木道人",
+  "MapId": 160,
+  "Script": {
+    "Enter": "Scene_00182_Enter",
+    "Teleport": ""
+  }
+}

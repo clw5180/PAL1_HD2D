@@ -1,0 +1,23 @@
+{
+  "Name": "神仙茶",
+  "Description": [
+    "神仙广成子养生延寿之秘方。",
+    "HPMP+440"
+  ],
+  "BitmapId": 41,
+  "Price": 5500,
+  "Script": {
+    "Use": "Item_00050_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

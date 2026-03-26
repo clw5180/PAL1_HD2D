@@ -1,0 +1,8 @@
+{
+  "Name": "蜀山云海_独立酒剑仙",
+  "MapId": 137,
+  "Script": {
+    "Enter": "Scene_00151_Enter",
+    "Teleport": ""
+  }
+}

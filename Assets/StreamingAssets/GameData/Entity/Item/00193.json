@@ -1,0 +1,23 @@
+{
+  "Name": "玉镯",
+  "Description": [
+    "戴在手臂上的玉制环形首饰。",
+    "防御+5　吉运+9"
+  ],
+  "BitmapId": 29,
+  "Price": 950,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00193_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "235"
+  }
+}

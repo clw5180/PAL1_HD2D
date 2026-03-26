@@ -1,0 +1,24 @@
+{
+  "Name": "原地水月侍女",
+  "VanishTime": 0,
+  "X": 1440,
+  "Y": 384,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 223,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00020_00011_Trigger",
+    "Auto": "Event_00006_00014_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

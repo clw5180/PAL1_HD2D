@@ -1,0 +1,23 @@
+{
+  "Name": "天师帽",
+  "Description": [
+    "道士做法时所戴的帽子。",
+    "防御+11　灵力+3"
+  ],
+  "BitmapId": 180,
+  "Price": 3300,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00143_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

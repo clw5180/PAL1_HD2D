@@ -1,0 +1,8 @@
+{
+  "Name": "余杭_山神庙外",
+  "MapId": 5,
+  "Script": {
+    "Enter": "",
+    "Teleport": "Scene_00008_Teleport"
+  }
+}

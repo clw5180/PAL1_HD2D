@@ -1,0 +1,8 @@
+{
+  "Name": "仙灵岛_岸边",
+  "MapId": 7,
+  "Script": {
+    "Enter": "Scene_00016_Enter",
+    "Teleport": "Scene_00016_Teleport"
+  }
+}

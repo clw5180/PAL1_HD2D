@@ -1,0 +1,55 @@
+{
+  "Name": "伏地罗汉",
+  "Health": 340,
+  "Exp": 10,
+  "Cash": 0,
+  "Level": 10,
+  "MagicId": 19,
+  "MagicRate": 8,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 7,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 5,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 5,
+      "Water": 2,
+      "Fire": 7,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 39,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 398,
+    "ActionSound": 0,
+    "MagicSound": 399,
+    "DeathSound": 247,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "Enemy_00039_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

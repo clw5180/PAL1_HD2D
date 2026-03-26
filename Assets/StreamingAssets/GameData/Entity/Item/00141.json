@@ -1,0 +1,23 @@
+{
+  "Name": "皮帽",
+  "Description": [
+    "羊皮缝制的帽子，非常保暖。",
+    "防御+4"
+  ],
+  "BitmapId": 85,
+  "Price": 390,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00141_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

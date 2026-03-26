@@ -1,0 +1,8 @@
+{
+  "Name": "山路_白河村后",
+  "MapId": 59,
+  "Script": {
+    "Enter": "Scene_00055_Enter",
+    "Teleport": "Scene_00055_Teleport"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "小鱼",
+  "VanishTime": 0,
+  "X": 288,
+  "Y": 976,
+  "Layer": -7,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 52,
+    "SpriteFrames": 4,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "Event_00006_00008_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

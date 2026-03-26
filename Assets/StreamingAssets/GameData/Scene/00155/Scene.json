@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔_三层_书中仙",
+  "MapId": 147,
+  "Script": {
+    "Enter": "Scene_00155_Enter",
+    "Teleport": ""
+  }
+}

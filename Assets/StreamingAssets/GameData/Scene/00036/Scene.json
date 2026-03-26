@@ -1,0 +1,8 @@
+{
+  "Name": "苏州_林家堡_后院",
+  "MapId": 15,
+  "Script": {
+    "Enter": "Scene_00034_Enter",
+    "Teleport": ""
+  }
+}

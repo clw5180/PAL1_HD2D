@@ -1,0 +1,22 @@
+{
+  "Name": "钓竿",
+  "Description": [
+    "借来的，记得还！"
+  ],
+  "BitmapId": 233,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00224_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

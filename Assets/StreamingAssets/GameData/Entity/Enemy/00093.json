@@ -1,0 +1,55 @@
+{
+  "Name": "五毒巨蝎",
+  "Health": 2700,
+  "Exp": 510,
+  "Cash": 0,
+  "Level": 39,
+  "MagicId": 70,
+  "MagicRate": 3,
+  "AttackEquivItemId": 70,
+  "AttackEquivItemRate": 5,
+  "StealItemId": 73,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 4,
+    "Poison": 10,
+    "Sorcery": 2,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 1,
+      "Fire": 8,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 92,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 3,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 489,
+    "ActionSound": 0,
+    "MagicSound": -490,
+    "DeathSound": 183,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "Enemy_00068_Won",
+    "Action": ""
+  }
+}

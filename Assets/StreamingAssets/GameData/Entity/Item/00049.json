@@ -1,0 +1,24 @@
+{
+  "Name": "天仙玉露",
+  "Description": [
+    "观音菩萨净瓶甘露水，",
+    "人间难求的仙界圣药。",
+    "MP+700"
+  ],
+  "BitmapId": 163,
+  "Price": 4000,
+  "Script": {
+    "Use": "Item_00049_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

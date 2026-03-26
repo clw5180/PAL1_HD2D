@@ -1,0 +1,55 @@
+{
+  "Name": "灯笼",
+  "Health": 30,
+  "Exp": 1,
+  "Cash": 0,
+  "Level": 1,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 6,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 2,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 0,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 2,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 50,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 32,
+    "CallSound": 352
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦_余杭_客栈_大厅",
+  "MapId": 177,
+  "Script": {
+    "Enter": "Scene_00252_Enter",
+    "Teleport": ""
+  }
+}

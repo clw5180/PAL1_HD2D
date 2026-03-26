@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔全景",
+  "MapId": 140,
+  "Script": {
+    "Enter": "Scene_00165_Enter",
+    "Teleport": ""
+  }
+}

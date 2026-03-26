@@ -1,0 +1,55 @@
+{
+  "Name": "青鬼",
+  "Health": 450,
+  "Exp": 16,
+  "Cash": 0,
+  "Level": 11,
+  "MagicId": 26,
+  "MagicRate": 3,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 6,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 8,
+      "Fire": 0,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 28,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 383,
+    "ActionSound": 0,
+    "MagicSound": -384,
+    "DeathSound": 190,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

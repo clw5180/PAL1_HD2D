@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔_七星盘龙柱",
+  "MapId": 185,
+  "Script": {
+    "Enter": "Scene_00145_Enter",
+    "Teleport": ""
+  }
+}

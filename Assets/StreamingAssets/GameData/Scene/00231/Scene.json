@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦_南绍王宫_秘道",
+  "MapId": 162,
+  "Script": {
+    "Enter": "Scene_00231_Enter",
+    "Teleport": ""
+  }
+}

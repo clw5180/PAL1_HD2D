@@ -1,0 +1,55 @@
+{
+  "Name": "青兽人",
+  "Health": 1900,
+  "Exp": 480,
+  "Cash": 0,
+  "Level": 44,
+  "MagicId": 77,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 88,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 10,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 3,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 0,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 95,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 4,
+    "ActWaitFrames": 1,
+    "YPosOffset": 2
+  },
+  "Sound": {
+    "AttackSound": 495,
+    "ActionSound": 0,
+    "MagicSound": -496,
+    "DeathSound": 266,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

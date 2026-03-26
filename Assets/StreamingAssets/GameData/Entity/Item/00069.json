@@ -1,0 +1,24 @@
+{
+  "Name": "鬼枯藤",
+  "Description": [
+    "具毒性的黑褐色野生藤蔓，",
+    "可解赤毒、尸毒、瘴毒、毒丝。",
+    "HP-30"
+  ],
+  "BitmapId": 161,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00069_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

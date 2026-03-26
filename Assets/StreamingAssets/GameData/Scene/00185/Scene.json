@@ -1,0 +1,8 @@
+{
+  "Name": "树洞_迷宫",
+  "MapId": 154,
+  "Script": {
+    "Enter": "Scene_00185_Enter",
+    "Teleport": "Scene_00185_Teleport"
+  }
+}

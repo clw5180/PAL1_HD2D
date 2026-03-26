@@ -1,0 +1,31 @@
+{
+  "Name": "投掷",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": -999,
+  "SoundId": 157,
+  "Type": 0,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 96,
+    "XOffset": -12,
+    "YOffset": 0,
+    "LayerOffset": 1,
+    "FrameDelay": -1,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": false,
+    "NeedSelectTarget": true
+  }
+}

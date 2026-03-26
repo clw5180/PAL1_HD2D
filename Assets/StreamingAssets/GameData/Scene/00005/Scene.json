@@ -1,0 +1,8 @@
+{
+  "Name": "余杭_盛渔村",
+  "MapId": 1,
+  "Script": {
+    "Enter": "Scene_00005_Enter",
+    "Teleport": ""
+  }
+}

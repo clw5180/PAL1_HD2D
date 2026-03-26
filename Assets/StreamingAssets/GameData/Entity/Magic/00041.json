@@ -1,0 +1,31 @@
+{
+  "Name": "弦月斩",
+  "Description": [],
+  "CostMP": 5,
+  "BaseDamage": 44,
+  "SoundId": 126,
+  "Type": 0,
+  "ActionType": 2,
+  "Effect": {
+    "EffectId": 15,
+    "XOffset": -44,
+    "YOffset": 20,
+    "LayerOffset": 0,
+    "FrameDelay": 0,
+    "KeepEffect": -1,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

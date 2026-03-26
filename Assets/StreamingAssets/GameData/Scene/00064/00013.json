@@ -1,0 +1,24 @@
+{
+  "Name": "尸妖众",
+  "VanishTime": 0,
+  "X": 608,
+  "Y": 592,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 474,
+    "SpriteFrames": 4,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00062_00010_Trigger",
+    "Auto": "Event_00055_00005_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

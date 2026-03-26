@@ -1,0 +1,24 @@
+{
+  "Name": "原地童子",
+  "VanishTime": 0,
+  "X": 928,
+  "Y": 1360,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 111,
+    "SpriteFrames": 1,
+    "Direction": 3,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00159_00003_Trigger",
+    "Auto": "Event_00006_00014_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

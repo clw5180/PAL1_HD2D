@@ -1,0 +1,22 @@
+{
+  "Name": "凤纹手绢",
+  "Description": [
+    "某人交付的信物。"
+  ],
+  "BitmapId": 251,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00232_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

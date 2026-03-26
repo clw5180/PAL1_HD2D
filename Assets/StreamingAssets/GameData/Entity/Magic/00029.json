@@ -1,0 +1,31 @@
+{
+  "Name": "风雪冰天1",
+  "Description": [],
+  "CostMP": 45,
+  "BaseDamage": 170,
+  "SoundId": 339,
+  "Type": 3,
+  "ActionType": 3,
+  "Effect": {
+    "EffectId": 92,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": -1,
+    "KeepEffect": 0,
+    "PreviewFrames": 8,
+    "EffectTimes": 4,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

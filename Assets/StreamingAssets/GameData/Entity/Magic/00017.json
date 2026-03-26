@@ -1,0 +1,34 @@
+{
+  "Name": "真元护体",
+  "Description": [
+    "使用后如有铁铠金甲护体。",
+    "增加防御九回合。"
+  ],
+  "CostMP": 18,
+  "BaseDamage": 0,
+  "SoundId": 149,
+  "Type": 7,
+  "ActionType": 4,
+  "Effect": {
+    "EffectId": 40,
+    "XOffset": -8,
+    "YOffset": 4,
+    "LayerOffset": 1,
+    "FrameDelay": -1,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "Magic_00017_Success",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": false,
+    "NeedSelectTarget": true
+  }
+}

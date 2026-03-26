@@ -1,0 +1,8 @@
+{
+  "Name": "大理_城郊_战_天降甘霖_新的生机",
+  "MapId": 205,
+  "Script": {
+    "Enter": "",
+    "Teleport": "Scene_00262_Teleport"
+  }
+}

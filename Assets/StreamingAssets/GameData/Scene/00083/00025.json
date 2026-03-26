@@ -1,0 +1,24 @@
+{
+  "Name": "醉鬼1",
+  "VanishTime": 0,
+  "X": 608,
+  "Y": 1040,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 371,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00083_00025_Trigger",
+    "Auto": "Event_00083_00025_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

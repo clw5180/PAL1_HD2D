@@ -1,0 +1,23 @@
+{
+  "Name": "九节菖蒲",
+  "Description": [
+    "一种水草，叶子狭长如剑，可解",
+    "赤毒、尸毒、瘴毒、毒丝。"
+  ],
+  "BitmapId": 165,
+  "Price": 330,
+  "Script": {
+    "Use": "Item_00029_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

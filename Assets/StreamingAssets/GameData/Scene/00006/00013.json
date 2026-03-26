@@ -1,0 +1,24 @@
+{
+  "Name": "渔嫂",
+  "VanishTime": 0,
+  "X": 752,
+  "Y": 1448,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 3
+  },
+  "Sprite": {
+    "SpriteId": 51,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00006_00013_Trigger",
+    "Auto": "Event_00002_00026_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

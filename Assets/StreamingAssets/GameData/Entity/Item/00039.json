@@ -1,0 +1,23 @@
+{
+  "Name": "止血草",
+  "Description": [
+    "嚼碎后敷在伤口上，可迅速止血。",
+    "HP+50"
+  ],
+  "BitmapId": 136,
+  "Price": 50,
+  "Script": {
+    "Use": "Item_00039_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

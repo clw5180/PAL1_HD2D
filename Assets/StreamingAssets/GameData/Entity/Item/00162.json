@@ -1,0 +1,23 @@
+{
+  "Name": "白虎之铠",
+  "Description": [
+    "以罕见的白虎皮制成的皮甲。",
+    "防御+80"
+  ],
+  "BitmapId": 210,
+  "Price": 22000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00162_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "23"
+  }
+}

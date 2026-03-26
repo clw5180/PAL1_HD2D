@@ -1,0 +1,24 @@
+{
+  "Name": "酒",
+  "Description": [
+    "以米加酒麴酿制而成，",
+    "可解赤毒。",
+    "HPMP+15"
+  ],
+  "BitmapId": 36,
+  "Price": 80,
+  "Script": {
+    "Use": "Item_00026_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

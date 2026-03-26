@@ -1,0 +1,55 @@
+{
+  "Name": "血云雾",
+  "Health": 1200,
+  "Exp": 33,
+  "Cash": 0,
+  "Level": 10,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 9,
+    "MagicStrength": 100,
+    "Defense": -20,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 1,
+    "Poison": 10,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 10,
+      "Thunder": 10,
+      "Water": 10,
+      "Fire": 10,
+      "Earth": 10
+    }
+  },
+  "Effect": {
+    "EffectId": 48,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 4,
+    "ActWaitFrames": 2,
+    "YPosOffset": 4
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 411,
+    "MagicSound": 419,
+    "DeathSound": 266,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "Enemy_00048_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

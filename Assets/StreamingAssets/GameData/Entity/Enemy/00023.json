@@ -1,0 +1,55 @@
+{
+  "Name": "跳跳蛙",
+  "Health": 780,
+  "Exp": 80,
+  "Cash": 0,
+  "Level": 26,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 52,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 2,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 100,
+    "FleeRate": 2
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 0,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 5,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 23,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 377,
+    "ActionSound": 0,
+    "MagicSound": 219,
+    "DeathSound": 254,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "Enemy_00023_TurnStart",
+    "BattleWon": "",
+    "Action": "Enemy_00023_Action"
+  }
+}

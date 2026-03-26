@@ -1,0 +1,32 @@
+{
+  "Name": "武神",
+  "Description": [
+    "召唤武神，神刀斩魔。"
+  ],
+  "CostMP": 88,
+  "BaseDamage": 666,
+  "SoundId": 303,
+  "Type": 0,
+  "Effect": {
+    "SpriteId": 0,
+    "EffectId": 52,
+    "XOffset": -8,
+    "YOffset": 22,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "ColorShift": -2,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

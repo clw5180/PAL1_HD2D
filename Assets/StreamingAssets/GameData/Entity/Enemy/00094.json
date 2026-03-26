@@ -1,0 +1,55 @@
+{
+  "Name": "五毒巨蛇",
+  "Health": 650,
+  "Exp": 55,
+  "Cash": 0,
+  "Level": 4,
+  "MagicId": 70,
+  "MagicRate": 4,
+  "AttackEquivItemId": 70,
+  "AttackEquivItemRate": 7,
+  "StealItemId": 70,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 10,
+    "Sorcery": 2,
+    "Elemental": {
+      "Wind": 7,
+      "Thunder": 4,
+      "Water": 9,
+      "Fire": 5,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 93,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 491,
+    "ActionSound": 0,
+    "MagicSound": -492,
+    "DeathSound": 183,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

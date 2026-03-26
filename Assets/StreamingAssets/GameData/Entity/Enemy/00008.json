@@ -1,0 +1,55 @@
+{
+  "Name": "小鱼",
+  "Health": 1100,
+  "Exp": 70,
+  "Cash": 0,
+  "Level": 35,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 50,
+    "FleeRate": 2
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 1,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 0,
+      "Water": 5,
+      "Fire": 10,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 8,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 356,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 183,
+    "CallSound": 93
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

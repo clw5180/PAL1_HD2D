@@ -1,0 +1,24 @@
+{
+  "Name": "棺内骷髅将军",
+  "VanishTime": 0,
+  "X": 544,
+  "Y": 256,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": true,
+    "Range": 5
+  },
+  "Sprite": {
+    "SpriteId": 253,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00066_00066_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "余杭_客栈各分立房间_原始",
+  "MapId": 12,
+  "Script": {
+    "Enter": "Scene_00002_Enter",
+    "Teleport": ""
+  }
+}

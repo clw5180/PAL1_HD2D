@@ -1,0 +1,33 @@
+{
+  "Name": "元灵归心术",
+  "Description": [
+    "我方单人HP+500"
+  ],
+  "CostMP": 40,
+  "BaseDamage": 0,
+  "SoundId": 139,
+  "Type": 7,
+  "ActionType": 4,
+  "Effect": {
+    "EffectId": 51,
+    "XOffset": -8,
+    "YOffset": 4,
+    "LayerOffset": 1,
+    "FrameDelay": -1,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "Magic_00006_Success",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": true,
+    "UsableInBattle": true,
+    "UsableToEnemy": false,
+    "NeedSelectTarget": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "忆往昔_言犹在耳成永谶",
+  "MapId": 74,
+  "Script": {
+    "Enter": "Scene_00200_Enter",
+    "Teleport": ""
+  }
+}

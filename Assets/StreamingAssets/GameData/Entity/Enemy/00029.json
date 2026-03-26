@@ -1,0 +1,55 @@
+{
+  "Name": "蜥蜴",
+  "Health": 210,
+  "Exp": 8,
+  "Cash": 0,
+  "Level": 6,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 10,
+    "MagicStrength": 0,
+    "Defense": -3,
+    "Dexterity": -5,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 5,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 3,
+      "Earth": 3
+    }
+  },
+  "Effect": {
+    "EffectId": 29,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 385,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 183,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

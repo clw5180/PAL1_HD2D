@@ -1,0 +1,55 @@
+{
+  "Name": "石长老",
+  "Health": 32767,
+  "Exp": 0,
+  "Cash": 0,
+  "Level": 36,
+  "MagicId": 84,
+  "MagicRate": 10,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 63,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 8,
+    "Poison": 8,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 8,
+      "Thunder": 8,
+      "Water": 8,
+      "Fire": 8,
+      "Earth": 8
+    }
+  },
+  "Effect": {
+    "EffectId": 119,
+    "IdleFrames": 1,
+    "MagicFrames": 6,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 10
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": -501,
+    "DeathSound": 190,
+    "CallSound": 90
+  },
+  "Script": {
+    "TurnStart": "Enemy_00099_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

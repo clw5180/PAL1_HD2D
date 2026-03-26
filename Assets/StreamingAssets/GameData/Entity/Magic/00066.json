@@ -1,0 +1,31 @@
+{
+  "Name": "水灵符法",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 100,
+  "SoundId": 338,
+  "Type": 3,
+  "ActionType": 3,
+  "Effect": {
+    "EffectId": 58,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 8,
+    "EffectTimes": 3,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

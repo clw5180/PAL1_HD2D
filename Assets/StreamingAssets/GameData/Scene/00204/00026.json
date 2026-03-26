@@ -1,0 +1,24 @@
+{
+  "Name": "阿奴跪拜",
+  "VanishTime": 0,
+  "X": 1200,
+  "Y": 744,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 530,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 6
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

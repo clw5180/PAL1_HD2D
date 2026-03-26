@@ -1,0 +1,115 @@
+{
+  "AvatarId": 21,
+  "SpriteIdInBattle": 2,
+  "SpriteId": 2,
+  "Name": "林月如",
+  "CanAttackAll": false,
+  "Level": 3,
+  "MaxHP": 220,
+  "HP": 220,
+  "MaxMP": 80,
+  "MP": 80,
+  "CoveredBy": 0,
+  "WalkFrames": 0,
+  "Equipment": {
+    "Head": 208,
+    "Cloak": 210,
+    "Body": 210,
+    "Hand": 210,
+    "Foot": 209,
+    "Ornament": 215
+  },
+  "BaseAttribute": {
+    "AttackStrength": 38,
+    "MagicStrength": 22,
+    "Defense": 35,
+    "Dexterity": 36,
+    "FleeRate": 28
+  },
+  "Resistance": {
+    "Poison": 0,
+    "Elemental": {
+      "Wind": 0,
+      "Thunder": 0,
+      "Water": 0,
+      "Fire": 0,
+      "Earth": 0
+    }
+  },
+  "Sound": {
+    "Death": 25,
+    "Attack": 39,
+    "Weapon": 3,
+    "Critical": 7,
+    "Magic": 11,
+    "Cover": 17,
+    "Dying": 21
+  },
+  "Script": {
+    "FriendDeath": "Hero_00003_Death",
+    "Dying": "Hero_00003_Dying"
+  },
+  "Magic": {
+    "Cooperative": 42,
+    "Learned": [
+      5,
+      40,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Learnable": [
+      {
+        "Level": 7,
+        "MagicId": 43
+      },
+      {
+        "Level": 9,
+        "MagicId": 47
+      },
+      {
+        "Level": 13,
+        "MagicId": 44
+      },
+      {
+        "Level": 15,
+        "MagicId": 6
+      },
+      {
+        "Level": 16,
+        "MagicId": 92
+      },
+      {
+        "Level": 20,
+        "MagicId": 45
+      }
+    ]
+  }
+}

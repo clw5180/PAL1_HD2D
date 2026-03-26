@@ -1,0 +1,22 @@
+{
+  "Name": "石钥匙",
+  "Description": [
+    "开启隐龙窟后洞石门的钥匙。"
+  ],
+  "BitmapId": 237,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00229_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

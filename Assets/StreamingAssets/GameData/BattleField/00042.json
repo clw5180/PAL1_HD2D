@@ -1,0 +1,11 @@
+{
+  "Name": "片尾_插画封面动画",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": 0,
+    "Thunder": 0,
+    "Water": 0,
+    "Fire": 2,
+    "Earth": 0
+  }
+}

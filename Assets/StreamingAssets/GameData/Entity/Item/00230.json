@@ -1,0 +1,22 @@
+{
+  "Name": "天书",
+  "Description": [
+    "书中仙附身于书中。"
+  ],
+  "BitmapId": 243,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00230_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

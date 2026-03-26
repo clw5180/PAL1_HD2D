@@ -1,0 +1,33 @@
+{
+  "Name": "净衣咒",
+  "Description": [
+    "解赤毒、尸毒、瘴毒。"
+  ],
+  "CostMP": 7,
+  "BaseDamage": 0,
+  "SoundId": 141,
+  "Type": 7,
+  "ActionType": 4,
+  "Effect": {
+    "EffectId": 38,
+    "XOffset": -6,
+    "YOffset": -18,
+    "LayerOffset": 99,
+    "FrameDelay": -1,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "Item_00004_Use",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": false,
+    "NeedSelectTarget": true
+  }
+}

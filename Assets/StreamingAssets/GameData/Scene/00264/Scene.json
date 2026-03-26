@@ -1,0 +1,8 @@
+{
+  "Name": "大理_女娲神殿_外_防",
+  "MapId": 207,
+  "Script": {
+    "Enter": "",
+    "Teleport": "Scene_00262_Teleport"
+  }
+}

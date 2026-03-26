@@ -1,0 +1,8 @@
+{
+  "Name": "忆往昔_尚书府蝶仙化形",
+  "MapId": 106,
+  "Script": {
+    "Enter": "Scene_00143_Enter",
+    "Teleport": ""
+  }
+}

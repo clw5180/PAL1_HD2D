@@ -1,0 +1,11 @@
+{
+  "Name": "云谷鹤峰_上",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": -1,
+    "Thunder": 0,
+    "Water": 0,
+    "Fire": 0,
+    "Earth": 0
+  }
+}

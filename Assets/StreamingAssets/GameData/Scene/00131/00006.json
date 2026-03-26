@@ -1,0 +1,24 @@
+{
+  "Name": "原地闺秀1",
+  "VanishTime": 0,
+  "X": 896,
+  "Y": 1040,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 325,
+    "SpriteFrames": 1,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00131_00006_Trigger",
+    "Auto": "Event_00023_00016_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

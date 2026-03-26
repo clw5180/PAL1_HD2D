@@ -1,0 +1,23 @@
+{
+  "Name": "护腕",
+  "Description": [
+    "粗布缝制之腕部护套。",
+    "防御+2"
+  ],
+  "BitmapId": 224,
+  "Price": 70,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00189_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

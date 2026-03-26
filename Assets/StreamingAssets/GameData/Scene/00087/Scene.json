@@ -1,0 +1,8 @@
+{
+  "Name": "扬州_4",
+  "MapId": 93,
+  "Script": {
+    "Enter": "Scene_00086_Enter",
+    "Teleport": ""
+  }
+}

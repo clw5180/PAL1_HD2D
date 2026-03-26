@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦_水底秘道_后段",
+  "MapId": 176,
+  "Script": {
+    "Enter": "Scene_00232_Enter",
+    "Teleport": ""
+  }
+}

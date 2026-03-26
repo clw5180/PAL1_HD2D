@@ -1,0 +1,23 @@
+{
+  "Name": "烧肉",
+  "Description": [
+    "以炭火熏烤的酱汁猪肉。",
+    "HPMP+30"
+  ],
+  "BitmapId": 151,
+  "Price": 40,
+  "Script": {
+    "Use": "Item_00033_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

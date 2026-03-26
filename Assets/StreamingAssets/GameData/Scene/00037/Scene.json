@@ -1,0 +1,8 @@
+{
+  "Name": "苏州_林家堡_西厢房_原始",
+  "MapId": 51,
+  "Script": {
+    "Enter": "Scene_00037_Enter",
+    "Teleport": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "御剑伏魔1",
+  "Description": [],
+  "CostMP": 40,
+  "BaseDamage": 240,
+  "SoundId": 123,
+  "Type": 0,
+  "ActionType": 3,
+  "Effect": {
+    "EffectId": 89,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": 3,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 2,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

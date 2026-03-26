@@ -1,0 +1,55 @@
+{
+  "Name": "飞头",
+  "Health": 360,
+  "Exp": 8,
+  "Cash": 0,
+  "Level": 7,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 7,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 2,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 10,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 4,
+      "Fire": 3,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 36,
+    "IdleFrames": 4,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 3,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 395,
+    "ActionSound": 0,
+    "MagicSound": 202,
+    "DeathSound": 183,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

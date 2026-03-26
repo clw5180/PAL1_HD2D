@@ -1,0 +1,123 @@
+{
+  "AvatarId": 44,
+  "SpriteIdInBattle": 8,
+  "SpriteId": 8,
+  "Name": "盖罗娇",
+  "CanAttackAll": false,
+  "Level": 40,
+  "MaxHP": 3600,
+  "HP": 3600,
+  "MaxMP": 720,
+  "MP": 720,
+  "CoveredBy": 4,
+  "WalkFrames": 0,
+  "Equipment": {
+    "Head": 249,
+    "Cloak": 248,
+    "Body": 253,
+    "Hand": 260,
+    "Foot": 251,
+    "Ornament": 253
+  },
+  "BaseAttribute": {
+    "AttackStrength": 120,
+    "MagicStrength": 562,
+    "Defense": 136,
+    "Dexterity": 110,
+    "FleeRate": 40
+  },
+  "Resistance": {
+    "Poison": 0,
+    "Elemental": {
+      "Wind": 0,
+      "Thunder": 0,
+      "Water": 0,
+      "Fire": 0,
+      "Earth": 0
+    }
+  },
+  "Sound": {
+    "Death": 25,
+    "Attack": 39,
+    "Weapon": 3,
+    "Critical": 7,
+    "Magic": 11,
+    "Cover": 17,
+    "Dying": 21
+  },
+  "Script": {
+    "FriendDeath": "",
+    "Dying": ""
+  },
+  "Magic": {
+    "Cooperative": 80,
+    "Learned": [
+      54,
+      33,
+      28,
+      73,
+      15,
+      5,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Learnable": [
+      {
+        "Level": 8,
+        "MagicId": 18
+      },
+      {
+        "Level": 10,
+        "MagicId": 5
+      },
+      {
+        "Level": 12,
+        "MagicId": 49
+      },
+      {
+        "Level": 17,
+        "MagicId": 6
+      },
+      {
+        "Level": 20,
+        "MagicId": 17
+      },
+      {
+        "Level": 22,
+        "MagicId": 30005
+      },
+      {
+        "Level": 26,
+        "MagicId": 90
+      },
+      {
+        "Level": 34,
+        "MagicId": 30007
+      }
+    ]
+  }
+}

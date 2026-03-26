@@ -1,0 +1,34 @@
+{
+  "Name": "风雪冰天",
+  "Description": [
+    "冰系高级法术，",
+    "攻击敌方全体。"
+  ],
+  "CostMP": 44,
+  "BaseDamage": 288,
+  "SoundId": 338,
+  "Type": 3,
+  "ActionType": 3,
+  "Effect": {
+    "EffectId": 23,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": -1,
+    "KeepEffect": 0,
+    "PreviewFrames": 8,
+    "EffectTimes": 4,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

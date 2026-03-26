@@ -1,0 +1,24 @@
+{
+  "Name": "原地执苕水月侍女",
+  "VanishTime": 0,
+  "X": 1552,
+  "Y": 1672,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 224,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00117_00003_Trigger",
+    "Auto": "Event_00020_00007_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

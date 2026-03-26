@@ -1,0 +1,24 @@
+{
+  "Name": "蟠果",
+  "Description": [
+    "西王母蟠桃园遗种，",
+    "籽小肉厚汁液香甜。",
+    "HP+450"
+  ],
+  "BitmapId": 46,
+  "Price": 600,
+  "Script": {
+    "Use": "Item_00042_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

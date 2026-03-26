@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦_余杭_集市_各无人分立屋宇_废屋",
+  "MapId": 179,
+  "Script": {
+    "Enter": "Scene_00256_Enter",
+    "Teleport": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "桃花源_门户",
+  "MapId": 157,
+  "Script": {
+    "Enter": "Scene_00181_Enter",
+    "Teleport": "Scene_00181_Teleport"
+  }
+}

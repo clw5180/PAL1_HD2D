@@ -1,0 +1,33 @@
+{
+  "Name": "气疗术",
+  "Description": [
+    "我方单人HP+75"
+  ],
+  "CostMP": 6,
+  "BaseDamage": 0,
+  "SoundId": 138,
+  "Type": 7,
+  "ActionType": 4,
+  "Effect": {
+    "EffectId": 33,
+    "XOffset": -10,
+    "YOffset": -6,
+    "LayerOffset": 99,
+    "FrameDelay": -1,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "Magic_00003_Success",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": true,
+    "UsableInBattle": true,
+    "UsableToEnemy": false,
+    "NeedSelectTarget": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "原地八婆",
+  "VanishTime": 0,
+  "X": 960,
+  "Y": 864,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 315,
+    "SpriteFrames": 1,
+    "Direction": 2,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00051_00007_Trigger",
+    "Auto": "Event_00002_00020_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

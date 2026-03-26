@@ -1,0 +1,34 @@
+{
+  "Name": "旋风咒",
+  "Description": [
+    "风系中级法术，",
+    "攻击敌方全体。"
+  ],
+  "CostMP": 11,
+  "BaseDamage": 88,
+  "SoundId": 102,
+  "Type": 1,
+  "ActionType": 1,
+  "Effect": {
+    "EffectId": 5,
+    "XOffset": 0,
+    "YOffset": 30,
+    "LayerOffset": 99,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 1,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

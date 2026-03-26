@@ -1,0 +1,34 @@
+{
+  "Name": "风卷残云",
+  "Description": [
+    "风系高级法术，",
+    "攻击敌方全体。"
+  ],
+  "CostMP": 42,
+  "BaseDamage": 280,
+  "SoundId": 103,
+  "Type": 1,
+  "ActionType": 3,
+  "Effect": {
+    "EffectId": 72,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 2,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": "Magic_00021_Use"
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

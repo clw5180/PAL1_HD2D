@@ -1,0 +1,23 @@
+{
+  "Name": "化尸水",
+  "Description": [
+    "碰到伤口血水，便腐蚀溃烂，",
+    "受伤者沾染立毙。"
+  ],
+  "BitmapId": 172,
+  "Price": 1800,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": "Item_00074_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

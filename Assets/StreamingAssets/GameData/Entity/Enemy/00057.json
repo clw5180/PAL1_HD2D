@@ -1,0 +1,55 @@
+{
+  "Name": "刀手",
+  "Health": 420,
+  "Exp": 25,
+  "Cash": 0,
+  "Level": 4,
+  "MagicId": 87,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 10,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 3
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 3,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 3,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 57,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 238,
+    "ActionSound": 0,
+    "MagicSound": 248,
+    "DeathSound": 243,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "Enemy_00057_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

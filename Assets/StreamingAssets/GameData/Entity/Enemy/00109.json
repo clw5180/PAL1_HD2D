@@ -1,0 +1,55 @@
+{
+  "Name": "僵尸兵C",
+  "Health": 340,
+  "Exp": 10,
+  "Cash": 0,
+  "Level": 8,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 56,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 10,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": -5,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 9,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 2,
+      "Water": 6,
+      "Fire": 5,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 107,
+    "IdleFrames": 1,
+    "MagicFrames": 2,
+    "AttackFrames": 4,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 4,
+    "MagicSound": 0,
+    "DeathSound": 185,
+    "CallSound": 93
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

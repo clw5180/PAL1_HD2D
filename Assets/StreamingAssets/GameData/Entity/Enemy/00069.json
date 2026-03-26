@@ -1,0 +1,55 @@
+{
+  "Name": "牛鬼",
+  "Health": 4670,
+  "Exp": 920,
+  "Cash": 0,
+  "Level": 45,
+  "MagicId": 78,
+  "MagicRate": 6,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 85,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 30,
+    "MagicStrength": 30,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 4,
+    "Poison": 1,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 8,
+      "Thunder": 8,
+      "Water": 8,
+      "Fire": 3,
+      "Earth": 10
+    }
+  },
+  "Effect": {
+    "EffectId": 69,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 3,
+    "YPosOffset": 24
+  },
+  "Sound": {
+    "AttackSound": 451,
+    "ActionSound": 0,
+    "MagicSound": -452,
+    "DeathSound": 266,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

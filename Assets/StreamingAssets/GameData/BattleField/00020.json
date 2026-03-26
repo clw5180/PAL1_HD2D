@@ -1,0 +1,11 @@
+{
+  "Name": "白苗街巷",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": 2,
+    "Thunder": 0,
+    "Water": 0,
+    "Fire": 0,
+    "Earth": 0
+  }
+}

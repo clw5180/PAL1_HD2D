@@ -1,0 +1,23 @@
+{
+  "Name": "罗汉袍",
+  "Description": [
+    "修行得道的和尚所穿的衣袍。",
+    "防御+10　吉运+10　灵力+10"
+  ],
+  "BitmapId": 187,
+  "Price": 4000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00154_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

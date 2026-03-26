@@ -1,0 +1,32 @@
+{
+  "Name": "山神",
+  "Description": [
+    "召唤山神，最强的土系法术。"
+  ],
+  "CostMP": 66,
+  "BaseDamage": 455,
+  "SoundId": 329,
+  "Type": 5,
+  "Effect": {
+    "SpriteId": 3,
+    "EffectId": 39,
+    "XOffset": -28,
+    "YOffset": 13,
+    "IdleFrames": 0,
+    "MagicFrames": 2,
+    "AttackFrames": 4,
+    "ColorShift": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

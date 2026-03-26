@@ -1,0 +1,24 @@
+{
+  "Name": "荷戈蛇妖",
+  "VanishTime": 0,
+  "X": 704,
+  "Y": 1296,
+  "Layer": -2,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 251,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 1
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "玉佛珠",
+  "Description": [
+    "西方如来檀前的念珠，经佛法薰陶",
+    "变化通灵。合体法术：佛法无边",
+    "灵力+88 防御+18　避毒率+30%"
+  ],
+  "BitmapId": 11,
+  "Price": 0,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00214_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": "2"
+  }
+}

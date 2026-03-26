@@ -1,0 +1,23 @@
+{
+  "Name": "檀香",
+  "Description": [
+    "含有檀香料的一种香，点燃用",
+    "以薰衣、薰室内，驱逐恶气。"
+  ],
+  "BitmapId": 27,
+  "Price": 30,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": false,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "田园_长安城外",
+  "MapId": 102,
+  "Script": {
+    "Enter": "Scene_00152_Enter",
+    "Teleport": ""
+  }
+}

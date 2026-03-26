@@ -1,0 +1,24 @@
+{
+  "Name": "乞香蕉猴子",
+  "VanishTime": 0,
+  "X": 736,
+  "Y": 656,
+  "Layer": -1,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 1
+  },
+  "Sprite": {
+    "SpriteId": 447,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00193_00058_Trigger",
+    "Auto": "Event_00193_00057_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "半截僵尸",
+  "Health": 1250,
+  "Exp": 52,
+  "Cash": 0,
+  "Level": 10,
+  "MagicId": 12,
+  "MagicRate": 4,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 56,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 18,
+    "MagicStrength": 0,
+    "Defense": -32,
+    "Dexterity": 12,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 1,
+    "Poison": 10,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 8,
+      "Thunder": 8,
+      "Water": 8,
+      "Fire": 8,
+      "Earth": 8
+    }
+  },
+  "Effect": {
+    "EffectId": 11,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 6,
+    "ActWaitFrames": 2,
+    "YPosOffset": 6
+  },
+  "Sound": {
+    "AttackSound": 359,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 246,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

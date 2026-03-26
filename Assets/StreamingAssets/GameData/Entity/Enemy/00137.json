@@ -1,0 +1,55 @@
+{
+  "Name": "红史莱姆",
+  "Health": 110,
+  "Exp": 5,
+  "Cash": 0,
+  "Level": 3,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 10,
+    "MagicStrength": 0,
+    "Defense": -6,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 1,
+    "Poison": 5,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 8,
+      "Thunder": 8,
+      "Water": 8,
+      "Fire": 8,
+      "Earth": 8
+    }
+  },
+  "Effect": {
+    "EffectId": 136,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 50,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 186,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "Enemy_00137_TurnStart",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "包袱",
+  "Description": [
+    "婶婶替逍遥收拾的行李。"
+  ],
+  "BitmapId": 22,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00220_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

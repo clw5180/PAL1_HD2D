@@ -1,0 +1,55 @@
+{
+  "Name": "牡丹精",
+  "Health": 1800,
+  "Exp": 250,
+  "Cash": 0,
+  "Level": 30,
+  "MagicId": 60,
+  "MagicRate": 7,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 49,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": -20,
+    "Defense": -30,
+    "Dexterity": -20,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 2,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 9,
+      "Thunder": 6,
+      "Water": 9,
+      "Fire": 2,
+      "Earth": 2
+    }
+  },
+  "Effect": {
+    "EffectId": 73,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 24
+  },
+  "Sound": {
+    "AttackSound": 462,
+    "ActionSound": 0,
+    "MagicSound": -463,
+    "DeathSound": 26,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "风灵符法",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 85,
+  "SoundId": 103,
+  "Type": 1,
+  "ActionType": 1,
+  "Effect": {
+    "EffectId": 56,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": 2,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "七星剑",
+  "Description": [
+    "剑身镶嵌七颗金黄宝石，可吸取北",
+    "斗七星之精气。武术+120 灵力+50",
+    "身法+32  吉运+33 　防御+7"
+  ],
+  "BitmapId": 57,
+  "Price": 16000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00126_Equip",
+    "Throw": "Item_00126_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1"
+  }
+}

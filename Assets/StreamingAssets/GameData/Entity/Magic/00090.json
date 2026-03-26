@@ -1,0 +1,33 @@
+{
+  "Name": "金蝉脱壳",
+  "Description": [
+    "战斗中逃跑。"
+  ],
+  "CostMP": 33,
+  "BaseDamage": 0,
+  "SoundId": 0,
+  "Type": 0,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 99,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 0,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": "Magic_00090_Use"
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": false,
+    "NeedSelectTarget": false
+  }
+}

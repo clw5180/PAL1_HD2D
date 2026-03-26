@@ -1,0 +1,23 @@
+{
+  "Name": "净衣符",
+  "Description": [
+    "具有祛病、驱邪的法力，",
+    "可解赤毒、尸毒、瘴毒。"
+  ],
+  "BitmapId": 217,
+  "Price": 120,
+  "Script": {
+    "Use": "Item_00004_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

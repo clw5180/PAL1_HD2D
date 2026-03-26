@@ -1,0 +1,24 @@
+{
+  "Name": "毒龙砂",
+  "Description": [
+    "以腹蛇毒炼制成的细砂，",
+    "可使敌方全体中瘴毒；",
+    "HP-55"
+  ],
+  "BitmapId": 146,
+  "Price": 1200,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": "Item_00097_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": false,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

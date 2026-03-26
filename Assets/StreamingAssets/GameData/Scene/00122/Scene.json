@@ -1,0 +1,8 @@
+{
+  "Name": "长安_尚书府_膳厅_用餐后",
+  "MapId": 128,
+  "Script": {
+    "Enter": "Scene_00122_Enter",
+    "Teleport": ""
+  }
+}

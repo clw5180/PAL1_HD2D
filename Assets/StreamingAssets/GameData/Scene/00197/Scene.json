@@ -1,0 +1,8 @@
+{
+  "Name": "忆往昔_逞侠肝怒斥逃奴",
+  "MapId": 18,
+  "Script": {
+    "Enter": "Scene_00197_Enter",
+    "Teleport": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "南绍王宫_秘道_内_2_空",
+  "MapId": 186,
+  "Script": {
+    "Enter": "",
+    "Teleport": "Scene_00236_Teleport"
+  }
+}

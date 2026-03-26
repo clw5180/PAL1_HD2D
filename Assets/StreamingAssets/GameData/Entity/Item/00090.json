@@ -1,0 +1,23 @@
+{
+  "Name": "金蚕王",
+  "Description": [
+    "蛊中之王，月夜散发金色磷光，",
+    "服食后可提升修行。"
+  ],
+  "BitmapId": 121,
+  "Price": 9000,
+  "Script": {
+    "Use": "Item_00090_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

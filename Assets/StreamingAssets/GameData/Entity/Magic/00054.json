@@ -1,0 +1,34 @@
+{
+  "Name": "御蜂术",
+  "Description": [
+    "以笛音指挥毒蜂，",
+    "攻击敌方全体。"
+  ],
+  "CostMP": 18,
+  "BaseDamage": 150,
+  "SoundId": 133,
+  "Type": 6,
+  "ActionType": 3,
+  "Effect": {
+    "EffectId": 24,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 4,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

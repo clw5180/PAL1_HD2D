@@ -1,0 +1,9 @@
+{
+  "Name": "尸毒",
+  "Level": 1,
+  "Color": 64,
+  "Script": {
+    "Player": "Poison_00002_Player",
+    "Enemy": "Poison_00002_Enemy"
+  }
+}

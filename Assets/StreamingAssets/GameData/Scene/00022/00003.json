@@ -1,0 +1,24 @@
+{
+  "Name": "林月如刺李逍遥",
+  "VanishTime": 0,
+  "X": 912,
+  "Y": 1032,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": true,
+    "Range": 4
+  },
+  "Sprite": {
+    "SpriteId": 229,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 6
+  },
+  "Script": {
+    "Trigger": "Event_00022_00003_Trigger",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

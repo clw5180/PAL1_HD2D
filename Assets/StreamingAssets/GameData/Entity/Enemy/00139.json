@@ -1,0 +1,55 @@
+{
+  "Name": "土蜘蛛",
+  "Health": 3050,
+  "Exp": 550,
+  "Cash": 0,
+  "Level": 40,
+  "MagicId": 58,
+  "MagicRate": 5,
+  "AttackEquivItemId": 99,
+  "AttackEquivItemRate": 4,
+  "StealItemId": 60,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 22,
+    "Defense": 20,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 6,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 7,
+      "Thunder": 6,
+      "Water": 8,
+      "Fire": 2,
+      "Earth": 8
+    }
+  },
+  "Effect": {
+    "EffectId": 138,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 246,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 233,
+    "CallSound": 92
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "Enemy_00068_Won",
+    "Action": ""
+  }
+}

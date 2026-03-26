@@ -1,0 +1,8 @@
+{
+  "Name": "火麒麟洞_终_火麒麟兽",
+  "MapId": 20,
+  "Script": {
+    "Enter": "Scene_00201_Enter",
+    "Teleport": ""
+  }
+}

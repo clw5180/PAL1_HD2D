@@ -1,0 +1,24 @@
+{
+  "Name": "凤鸣刀",
+  "Description": [
+    "出鞘之声有如凤鸣，故称「凤鸣刀」",
+    "武术+124　防御+9",
+    "身法+32   灵力+16"
+  ],
+  "BitmapId": 66,
+  "Price": 14000,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00120_Equip",
+    "Throw": "Item_00120_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "3"
+  }
+}

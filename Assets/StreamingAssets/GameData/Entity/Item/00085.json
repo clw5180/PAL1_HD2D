@@ -1,0 +1,23 @@
+{
+  "Name": "灵蛊",
+  "Description": [
+    "以稀有药物豢养的雌蛊。",
+    "全体MP+250"
+  ],
+  "BitmapId": 130,
+  "Price": 0,
+  "Script": {
+    "Use": "Item_00085_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": false,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

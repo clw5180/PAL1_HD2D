@@ -1,0 +1,8 @@
+{
+  "Name": "回魂仙梦_南绍",
+  "MapId": 187,
+  "Script": {
+    "Enter": "",
+    "Teleport": "Scene_00236_Teleport"
+  }
+}

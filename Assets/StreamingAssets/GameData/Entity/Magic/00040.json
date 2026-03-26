@@ -1,0 +1,34 @@
+{
+  "Name": "气剑指",
+  "Description": [
+    "苏州林家的家传武艺",
+    "攻击敌方全体。"
+  ],
+  "CostMP": 7,
+  "BaseDamage": 50,
+  "SoundId": 129,
+  "Type": 0,
+  "ActionType": 1,
+  "Effect": {
+    "EffectId": 43,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

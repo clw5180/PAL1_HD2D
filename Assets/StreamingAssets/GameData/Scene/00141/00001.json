@@ -1,0 +1,24 @@
+{
+  "Name": "彩依原形",
+  "VanishTime": 0,
+  "X": 1392,
+  "Y": 1352,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 0,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 445,
+    "SpriteFrames": 1,
+    "Direction": 3,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

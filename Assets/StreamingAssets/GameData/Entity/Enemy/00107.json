@@ -1,0 +1,55 @@
+{
+  "Name": "僵尸兵A",
+  "Health": 330,
+  "Exp": 10,
+  "Cash": 0,
+  "Level": 8,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 40,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": -1,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 9,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 5,
+      "Water": 5,
+      "Fire": 1,
+      "Earth": 3
+    }
+  },
+  "Effect": {
+    "EffectId": 105,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 3,
+    "MagicSound": 0,
+    "DeathSound": 184,
+    "CallSound": 2
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

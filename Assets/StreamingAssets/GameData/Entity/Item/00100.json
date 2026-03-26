@@ -1,0 +1,23 @@
+{
+  "Name": "捆仙绳",
+  "Description": [
+    "施有咒术的粗麻绳，可令妖怪",
+    "动弹不得，妖缚五回合。"
+  ],
+  "BitmapId": 207,
+  "Price": 900,
+  "Script": {
+    "Use": "Item_00100_Use",
+    "Equip": "",
+    "Throw": "Item_00100_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

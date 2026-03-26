@@ -1,0 +1,11 @@
+{
+  "Name": "蛤蟆洞_1",
+  "ScreenWave": 0,
+  "ElementalEffect": {
+    "Wind": -2,
+    "Thunder": -2,
+    "Water": 0,
+    "Fire": 5,
+    "Earth": 0
+  }
+}

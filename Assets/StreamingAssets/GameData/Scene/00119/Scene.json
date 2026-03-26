@@ -1,0 +1,8 @@
+{
+  "Name": "长安_尚书府_大厅",
+  "MapId": 110,
+  "Script": {
+    "Enter": "Scene_00119_Enter",
+    "Teleport": ""
+  }
+}

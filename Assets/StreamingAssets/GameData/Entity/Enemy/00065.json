@@ -1,0 +1,55 @@
+{
+  "Name": "树妖",
+  "Health": 11180,
+  "Exp": 24000,
+  "Cash": 0,
+  "Level": 52,
+  "MagicId": 72,
+  "MagicRate": 3,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 90,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 50,
+    "MagicStrength": -50,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 10,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 6,
+      "Fire": 0,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 65,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 20
+  },
+  "Sound": {
+    "AttackSound": 441,
+    "ActionSound": 0,
+    "MagicSound": -442,
+    "DeathSound": 233,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "锁妖塔外",
+  "MapId": 139,
+  "Script": {
+    "Enter": "",
+    "Teleport": "Scene_00162_Teleport"
+  }
+}

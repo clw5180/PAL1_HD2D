@@ -1,0 +1,11 @@
+{
+  "Name": "血池",
+  "ScreenWave": 128,
+  "ElementalEffect": {
+    "Wind": -3,
+    "Thunder": 0,
+    "Water": 0,
+    "Fire": 0,
+    "Earth": -2
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "乾坤镜",
+  "Description": [
+    "铜镜背面铸有太极乾坤图，",
+    "可吸取天地阴阳灵气。",
+    "灵力+14　防御+14"
+  ],
+  "BitmapId": 39,
+  "Price": 4900,
+  "Script": {
+    "Use": "",
+    "Equip": "Item_00198_Equip",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": true,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": "1235"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Name": "将军冢_墓底_血池",
+  "MapId": 76,
+  "Script": {
+    "Enter": "Scene_00060_Enter",
+    "Teleport": ""
+  }
+}

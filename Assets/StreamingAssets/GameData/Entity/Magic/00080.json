@@ -1,0 +1,31 @@
+{
+  "Name": "爆炸",
+  "Description": [],
+  "CostMP": 10,
+  "BaseDamage": 100,
+  "SoundId": 117,
+  "Type": 4,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 79,
+    "XOffset": -2,
+    "YOffset": -10,
+    "LayerOffset": 99,
+    "FrameDelay": 1,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

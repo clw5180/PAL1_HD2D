@@ -1,0 +1,31 @@
+{
+  "Name": "腥风血雨",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 333,
+  "SoundId": 111,
+  "Type": 1,
+  "ActionType": 3,
+  "Effect": {
+    "EffectId": 102,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 99,
+    "FrameDelay": -1,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 2,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

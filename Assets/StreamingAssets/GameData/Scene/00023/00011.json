@@ -1,0 +1,24 @@
+{
+  "Name": "顶盘子卖艺者",
+  "VanishTime": 0,
+  "X": 352,
+  "Y": 1088,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 2,
+    "IsAutoTrigger": false,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 601,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00023_00011_Trigger",
+    "Auto": "Event_00023_00011_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

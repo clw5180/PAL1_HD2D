@@ -1,0 +1,23 @@
+{
+  "Name": "水果",
+  "Description": [
+    "养颜美容、帮助消化。",
+    "HPMP+20"
+  ],
+  "BitmapId": 37,
+  "Price": 25,
+  "Script": {
+    "Use": "Item_00032_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "灵山仙芝",
+  "Description": [
+    "寄生于枯木上的菌类，俗称瑞草，",
+    "具有养气培元之神效。",
+    "MP+260"
+  ],
+  "BitmapId": 45,
+  "Price": 900,
+  "Script": {
+    "Use": "Item_00047_Use",
+    "Equip": "",
+    "Throw": ""
+  },
+  "Scope": {
+    "Usable": true,
+    "Equipable": false,
+    "Throwable": false,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": true,
+    "WhoCanEquip": ""
+  }
+}

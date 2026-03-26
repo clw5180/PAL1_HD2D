@@ -1,0 +1,34 @@
+{
+  "Name": "炎咒",
+  "Description": [
+    "火系初级法术，",
+    "攻击敌方单人。"
+  ],
+  "CostMP": 8,
+  "BaseDamage": 70,
+  "SoundId": 115,
+  "Type": 4,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 8,
+    "XOffset": 0,
+    "YOffset": 0,
+    "LayerOffset": 1,
+    "FrameDelay": 0,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 1
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

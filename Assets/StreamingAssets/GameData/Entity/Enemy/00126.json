@@ -1,0 +1,55 @@
+{
+  "Name": "黑苗祭司",
+  "Health": 4500,
+  "Exp": 910,
+  "Cash": 0,
+  "Level": 50,
+  "MagicId": 25,
+  "MagicRate": 5,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 88,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 5,
+    "Sorcery": 2,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 6,
+      "Water": 6,
+      "Fire": 6,
+      "Earth": 6
+    }
+  },
+  "Effect": {
+    "EffectId": 125,
+    "IdleFrames": 1,
+    "MagicFrames": 1,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 8
+  },
+  "Sound": {
+    "AttackSound": 0,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 266,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "Enemy_00050_TurnStart",
+    "BattleWon": "",
+    "Action": "Enemy_00126_Action"
+  }
+}

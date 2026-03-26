@@ -1,0 +1,8 @@
+{
+  "Name": "圣姑家_灵儿生产",
+  "MapId": 20,
+  "Script": {
+    "Enter": "Scene_00174_Enter",
+    "Teleport": ""
+  }
+}

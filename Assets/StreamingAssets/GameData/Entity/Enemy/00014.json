@@ -1,0 +1,55 @@
+{
+  "Name": "跳蚤",
+  "Health": 586,
+  "Exp": 42,
+  "Cash": 0,
+  "Level": 20,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": -8,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 8,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 8,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 6,
+      "Thunder": 4,
+      "Water": 5,
+      "Fire": 4,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 14,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 2,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 364,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 183,
+    "CallSound": 93
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

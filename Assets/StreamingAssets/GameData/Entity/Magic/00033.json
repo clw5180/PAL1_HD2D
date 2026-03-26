@@ -1,0 +1,34 @@
+{
+  "Name": "炎杀咒",
+  "Description": [
+    "火系高级法术，",
+    "攻击敌方单人。"
+  ],
+  "CostMP": 33,
+  "BaseDamage": 245,
+  "SoundId": 116,
+  "Type": 4,
+  "ActionType": 0,
+  "Effect": {
+    "EffectId": 14,
+    "XOffset": 64,
+    "YOffset": 16,
+    "LayerOffset": 1,
+    "FrameDelay": 1,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 2,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": ""
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": true
+  }
+}

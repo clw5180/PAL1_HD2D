@@ -1,0 +1,24 @@
+{
+  "Name": "锁剑柱灵儿",
+  "VanishTime": 0,
+  "X": 1680,
+  "Y": 216,
+  "Layer": 11,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": false,
+    "Range": 0
+  },
+  "Sprite": {
+    "SpriteId": 500,
+    "SpriteFrames": 0,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "",
+    "Auto": "",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

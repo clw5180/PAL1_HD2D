@@ -1,0 +1,31 @@
+{
+  "Name": "炼狱爪",
+  "Description": [],
+  "CostMP": 0,
+  "BaseDamage": 130,
+  "SoundId": 152,
+  "Type": 5,
+  "ActionType": 2,
+  "Effect": {
+    "EffectId": 44,
+    "XOffset": 0,
+    "YOffset": 30,
+    "LayerOffset": 50,
+    "FrameDelay": 2,
+    "KeepEffect": 0,
+    "PreviewFrames": 0,
+    "EffectTimes": 0,
+    "Shake": 0,
+    "Wave": 0
+  },
+  "Script": {
+    "Success": "",
+    "Use": "Magic_00058_Use"
+  },
+  "Scope": {
+    "UsableOutsideBattle": false,
+    "UsableInBattle": true,
+    "UsableToEnemy": true,
+    "NeedSelectTarget": false
+  }
+}

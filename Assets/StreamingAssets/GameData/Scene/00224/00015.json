@@ -1,0 +1,24 @@
+{
+  "Name": "蚰蜒",
+  "VanishTime": 0,
+  "X": 1552,
+  "Y": 808,
+  "Layer": 0,
+  "Trigger": {
+    "StateCode": 1,
+    "IsAutoTrigger": true,
+    "Range": 2
+  },
+  "Sprite": {
+    "SpriteId": 626,
+    "SpriteFrames": 2,
+    "Direction": 0,
+    "CurrentFrameId": 0
+  },
+  "Script": {
+    "Trigger": "Event_00223_00018_Trigger",
+    "Auto": "Event_00007_00005_Auto",
+    "TriggerIdleFrame": 0,
+    "AutoIdleFrame": 0
+  }
+}

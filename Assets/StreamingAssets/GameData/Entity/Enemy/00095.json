@@ -1,0 +1,55 @@
+{
+  "Name": "五毒蜈蚣",
+  "Health": 2850,
+  "Exp": 520,
+  "Cash": 0,
+  "Level": 40,
+  "MagicId": 70,
+  "MagicRate": 5,
+  "AttackEquivItemId": 99,
+  "AttackEquivItemRate": 5,
+  "StealItemId": 97,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 10,
+    "Sorcery": 2,
+    "Elemental": {
+      "Wind": 7,
+      "Thunder": 7,
+      "Water": 7,
+      "Fire": 2,
+      "Earth": 7
+    }
+  },
+  "Effect": {
+    "EffectId": 94,
+    "IdleFrames": 2,
+    "MagicFrames": 1,
+    "AttackFrames": 1,
+    "IdleAnimSpeed": 4,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 493,
+    "ActionSound": 0,
+    "MagicSound": -494,
+    "DeathSound": 183,
+    "CallSound": 0
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "Enemy_00068_Won",
+    "Action": ""
+  }
+}

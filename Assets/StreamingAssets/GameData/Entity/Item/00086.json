@@ -1,0 +1,23 @@
+{
+  "Name": "爆烈蛊",
+  "Description": [
+    "预先将法力灌输在蛊虫体内，",
+    "投掷敌人产生强烈爆炸。"
+  ],
+  "BitmapId": 122,
+  "Price": 0,
+  "Script": {
+    "Use": "",
+    "Equip": "",
+    "Throw": "Item_00086_Throw"
+  },
+  "Scope": {
+    "Usable": false,
+    "Equipable": false,
+    "Throwable": true,
+    "Consuming": true,
+    "NeedSelectTarget": true,
+    "Sellable": false,
+    "WhoCanEquip": ""
+  }
+}

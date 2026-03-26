@@ -1,0 +1,55 @@
+{
+  "Name": "史莱姆",
+  "Health": 28,
+  "Exp": 1,
+  "Cash": 0,
+  "Level": 0,
+  "MagicId": 0,
+  "MagicRate": 0,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 0,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": -1,
+    "MagicStrength": 0,
+    "Defense": -6,
+    "Dexterity": 0,
+    "FleeRate": 1
+  },
+  "Resistance": {
+    "Physical": 2,
+    "Poison": 0,
+    "Sorcery": 0,
+    "Elemental": {
+      "Wind": 5,
+      "Thunder": 5,
+      "Water": 0,
+      "Fire": 0,
+      "Earth": 5
+    }
+  },
+  "Effect": {
+    "EffectId": 1,
+    "IdleFrames": 2,
+    "MagicFrames": 0,
+    "AttackFrames": 2,
+    "IdleAnimSpeed": 5,
+    "ActWaitFrames": 1,
+    "YPosOffset": 0
+  },
+  "Sound": {
+    "AttackSound": 351,
+    "ActionSound": 0,
+    "MagicSound": 0,
+    "DeathSound": 246,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "麒麟",
+  "Health": 4400,
+  "Exp": 7000,
+  "Cash": 0,
+  "Level": 37,
+  "MagicId": 32,
+  "MagicRate": 10,
+  "AttackEquivItemId": 0,
+  "AttackEquivItemRate": 0,
+  "StealItemId": 89,
+  "StealItemCount": 0,
+  "DualMove": false,
+  "CollectValue": 0,
+  "BaseAttribute": {
+    "AttackStrength": 0,
+    "MagicStrength": 0,
+    "Defense": 0,
+    "Dexterity": 0,
+    "FleeRate": 0
+  },
+  "Resistance": {
+    "Physical": 3,
+    "Poison": 4,
+    "Sorcery": 10,
+    "Elemental": {
+      "Wind": 4,
+      "Thunder": 4,
+      "Water": 3,
+      "Fire": 10,
+      "Earth": 4
+    }
+  },
+  "Effect": {
+    "EffectId": 66,
+    "IdleFrames": 1,
+    "MagicFrames": 0,
+    "AttackFrames": 0,
+    "IdleAnimSpeed": 99,
+    "ActWaitFrames": 2,
+    "YPosOffset": 20
+  },
+  "Sound": {
+    "AttackSound": 443,
+    "ActionSound": 0,
+    "MagicSound": 443,
+    "DeathSound": 179,
+    "CallSound": 91
+  },
+  "Script": {
+    "TurnStart": "",
+    "BattleWon": "",
+    "Action": "Enemy_00066_Action"
+  }
+}
