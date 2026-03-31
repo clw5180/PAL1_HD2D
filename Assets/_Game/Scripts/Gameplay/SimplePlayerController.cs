@@ -67,6 +67,18 @@ public class SimplePlayerController : MonoBehaviour
     }
 
     /// <summary>
+    /// 与 MapRenderer / MapTestScene 一致：用世界 Z 映射排序 Y，使 Mesh 地图与角色共用 PAL 深度空间。
+    /// </summary>
+    void LateUpdate()
+    {
+        float z = transform.position.z;
+        float sortY = MapRenderer.SortYFromWorldZ(z);
+        var p = transform.position;
+        if (Mathf.Abs(p.y - sortY) > 1e-6f)
+            transform.position = new Vector3(p.x, sortY, p.z);
+    }
+
+    /// <summary>
     /// 每帧更新一次，帧率10fps
     /// 定位到问题：10Hz 逻辑下每 100ms 才改一次 transform.position，而显示器仍以 60fps+ 刷新，会产生明显阶梯感。
     /// 解决办法：在 Update 中每帧累加时间，当累计时间大于 100ms 时，执行一次 GameFrame 逻辑。

@@ -1,6 +1,23 @@
 using System.IO;
 using UnityEngine;
 
+/// <summary>
+/// 游戏数据引导/验证脚本。
+///
+/// 【用途】
+/// 挂载到场景中用于初始化 GameDataManager 并验证数据加载是否正确。
+/// 在开发阶段用于快速检查：场景数据、地图数据、精灵数据是否加载成功。
+///
+/// 【验证内容】
+/// 1. 场景数据: 打印前5个场景信息 + 指定 testSceneId 的详细信息
+/// 2. 地图数据: 加载 testMapId 并打印统计信息（总瓦片数、碰撞数、有顶层的数量）
+/// 3. 精灵数据: 加载 testSpriteId 的所有帧并打印帧数和尺寸
+///
+/// 【注意】
+/// 此脚本与 MapTestScene 独立使用（不同场景），两者都会加载数据但方式不同。
+/// MapTestScene 直接使用 MapDataLoader/TileSpriteLoader，
+/// 而 GameDataBootstrap 通过 GameDataManager 单例统一管理。
+/// </summary>
 public class GameDataBootstrap : MonoBehaviour
 {
     [Header("palmod 根目录（相对于 Pal_Resources）")]

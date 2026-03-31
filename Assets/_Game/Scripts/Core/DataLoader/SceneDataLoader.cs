@@ -5,6 +5,27 @@ using System.IO;
 using System.Text.RegularExpressions;
 using UnityEngine;
 
+/// <summary>
+/// 仙剑奇侠传1 场景数据加载器。
+///
+/// 【数据来源】
+/// 从 palmod 导出的 Scene.txt 文本文件解析场景和事件对象数据。
+/// palmod 将原版二进制数据（SSS.MKF 等）转为可读的文本格式。
+///
+/// 【Scene.txt 格式说明】
+/// 场景头格式（正则匹配）:
+///   (场景名) $十六进制(场景ID) [地图ID 进入脚本 传送脚本 事件索引]
+///   例: (仙灵岛李大婶家) $0002(2) [12 0000 0000 0]
+///
+/// 事件对象格式（正则匹配）:
+///   $十六进制(索引) [消失时间 X Y 层级 触发脚本 自动脚本 状态 触发模式 精灵ID 每方向帧数 方向 当前帧 空闲帧 ...] 名称
+///   例: $0001(1) [0 1400 290 0 0100 0000 2 1 2 3 0 0 0 0 0 0] 李逍遥
+///
+/// 【注意事项】
+/// - 脚本ID为十六进制
+/// - 坐标为原版像素坐标
+/// - LoadScene 方法使用1-based索引（sceneId从1开始）
+/// </summary>
 public class SceneDataLoader
 {
     private static readonly Regex SceneHeaderRegex =

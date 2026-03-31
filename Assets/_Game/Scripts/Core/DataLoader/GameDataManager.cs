@@ -2,6 +2,33 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
+/// <summary>
+/// 仙剑奇侠传1 游戏数据管理器（单例）。
+///
+/// 【职责】
+/// 统一管理所有数据加载器，提供全局访问点。
+/// 包含: SceneDataLoader（场景）、MapDataLoader（地图）、SpriteLoader（精灵）
+///
+/// 【初始化流程】
+/// 1. Init() 设置 palmod 根目录和精灵目录
+/// 2. 立即加载所有场景数据（Scene.txt 一次性全部加载）
+/// 3. 地图和精灵按需加载（LoadMap / LoadSpriteFrames）
+///
+/// 【目录结构】
+/// palmodRoot/
+///   ├── Scene.txt          - 场景定义文件
+///   └── MapData/
+///       ├── Map/Map{XXXX}  - 地图瓦片数据（二进制）
+///       ├── Tile/Tile{XXXX} - 地图瓦片精灵（Sub16 格式）
+///       └── Palette         - 调色板文件
+/// spriteRoot/
+///   └── {XXXXX}/           - 精灵目录（如 00002/ = 李逍遥）
+///       └── {XXXXX}.png    - 精灵帧图片
+///
+/// 【CheckObstacle 方法】
+/// 封装了完整的碰撞检测逻辑：像素坐标→网格坐标→查询碰撞+事件碰撞。
+/// 使用 PalCoordinate.PixelToGrid 的菱形区域判定算法。
+/// </summary>
 public class GameDataManager
 {
     private static GameDataManager _instance;
