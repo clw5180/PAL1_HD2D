@@ -12,7 +12,13 @@ PAL-HD2D 是基于 Unity 2022.3 LTS + URP 的仙剑奇侠传1 HD-2D 重制项目
 - Isometric 坐标系统与原版一致，保证碰撞检测和场景交互正确
 - URP 后处理支持 Depth of Field、Bloom、Color Grading 等 HD-2D 效果
 
-**当前进度**：已完成第一个场景画面渲染、角色移动控制、碰撞和渲染层级问题解决。
+
+**2026.3.31进度**：渲染层级问题解决。
+
+**2026.3.30进度**：碰撞问题解决。
+
+**2026.3.29进度**：已完成第一个场景画面渲染、角色移动控制。
+
 
 ## 游戏截图
 ![Screenshot 1](Screenshots/screenshot_1.png)
