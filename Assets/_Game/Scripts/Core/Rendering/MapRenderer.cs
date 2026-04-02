@@ -98,7 +98,7 @@ public class MapRenderer : MonoBehaviour
         if (_occluderLayerGO != null) Destroy(_occluderLayerGO);
     }
 
-    /// <summary>与 MapTestScene / PAL 一致的像素→世界 Z：wz = -footPixelY / Ppu。</summary>
+    /// <summary>与 TileMapWalkBootstrap / PAL 一致的像素→世界 Z：wz = -footPixelY / Ppu。</summary>
     public const float Ppu = 100f;
 
     /// <summary>

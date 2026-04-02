@@ -7,7 +7,10 @@ using UnityEngine;
 /// 原版关键点：
 /// 1. 视口位置 = 角色位置 + 固定偏移（使角色居中）
 /// 2. sdlpal 纯格子跳时角色坐标只在逻辑帧变化，LateUpdate 每帧跟随即可（位置在多数刷新周期内不变）
-/// 3. 边界限制有额外 tile 偏移（32/16 像素）
+///
+/// 【当前实现】
+/// 直接跟随目标的 XZ 坐标，不做边界 Clamp。
+/// yOffset 用于将视口略微上移，使角色不在画面正中而偏下一些（原版视觉习惯）。
 /// </summary>
 public class CameraFollow : MonoBehaviour
 {
@@ -39,24 +42,19 @@ public class CameraFollow : MonoBehaviour
         UpdateCameraPosition();
     }
 
+    /// <summary>
+    /// 每帧末尾更新相机位置，直接对齐目标的 XZ 坐标。
+    /// X = target.position.x（水平位置完全同步）
+    /// Z = target.position.z + yOffset（加偏移让角色在画面中略偏下）
+    /// Y = 保持不变（相机高度固定，由 SetupCamera 初始化为 10）
+    /// </summary>
     void UpdateCameraPosition()
     {
         if (target == null) return;
 
-        float halfH = _cam.orthographicSize;
-        float halfW = _cam.orthographicSize * _cam.aspect;
+        float x = target.position.x;
+        float z = target.position.z + yOffset;
 
-        float clampedX = Mathf.Clamp(
-            target.position.x,
-            mapMinX + halfW + extraBorderX,
-            mapMaxX - halfW - extraBorderX
-        );
-        float clampedZ = Mathf.Clamp(
-            target.position.z + yOffset,
-            mapMinZ + halfH + extraBorderZ,
-            mapMaxZ - halfH - extraBorderZ
-        );
-
-        transform.position = new Vector3(clampedX, transform.position.y, clampedZ);
+        transform.position = new Vector3(x, transform.position.y, z);
     }
 }

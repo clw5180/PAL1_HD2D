@@ -25,16 +25,38 @@ PAL-HD2D 是基于 Unity 2022.3 LTS + URP 的仙剑奇侠传1 HD-2D 重制项目
 
 ## 快速开始
 1. 使用Unity 2022.3或更高版本打开项目
-2. 加载Scenes/Game.unity场景
+2. 加载Scenes/TileMapWalk.unity等测试场景
 3. 点击播放按钮开始游戏
 
 ## 项目结构
 ```
 PAL1_HD2D/
 ├── Assets/
-│   ├── Scenes/              # 游戏场景
-│   ├── Settings/            # 项目设置
-│   ├── StreamingAssets/     # 流式资源
-│   └── _Game/               # 游戏核心代码
-└── .gitignore
+│   ├── Scenes/                            # 游戏场景
+│   │   ├── Game.unity                       # 主游戏场景
+│   │   ├── TileMapWalk.unity                # Tile地图行走测试（二进制地图+碰撞+渲染层级）
+│   │   ├── SpriteWalkDemo.unity             # 精灵行走演示（PNG贴图+自由行走，早期demo）
+│   │   └── ScriptTest.unity                 # 脚本引擎测试
+│   ├── Settings/                          # 项目设置
+│   ├── StreamingAssets/                   # 流式资源
+│   └── _Game/
+│       └── Scripts/
+│           ├── Core/                      # 核心逻辑（纯数据/渲染/引擎，不含场景入口）
+│           │   ├── DataLoader/              # 数据加载：场景、地图、精灵、Tile
+│           │   ├── DataModel/               # 数据模型：MapTileData、PalCoordinate、SceneData
+│           │   ├── Rendering/               # 渲染：MapRenderer、PalSpriteRenderer
+│           │   └── ScriptEngine/            # 脚本引擎：编译器、执行器、指令定义
+│           ├── Gameplay/                  # 通用可复用游戏组件
+│           │   ├── CameraFollow.cs          # 正交相机跟随
+│           │   ├── PalCollisionSystem.cs    # 碰撞检测系统
+│           │   └── SimplePlayerController.cs # 角色控制器
+│           ├── TestScenes/                # 测试场景Bootstrap（场景入口/验证脚本）
+│           │   ├── TileMapWalkBootstrap.cs   # TileMapWalk场景引导器
+│           │   ├── SpriteWalkDemoBootstrap.cs # SpriteWalkDemo场景引导器
+│           │   ├── ScriptExecutorBootstrap.cs # 脚本执行器验证
+│           │   ├── ScriptCompilerBootstrap.cs # 脚本编译器验证
+│           │   └── GameDataBootstrap.cs      # 游戏数据加载验证
+│           ├── Services/                  # 服务层（预留）
+│           └── UI/                        # UI组件
+└── Pal_Resources/                         # 仙剑原版资源数据
 ```
